@@ -219,3 +219,7 @@ __marimo__/
 
 # MACOS
 .DS_Store
+
+# LLM
+
+modelos/llm
