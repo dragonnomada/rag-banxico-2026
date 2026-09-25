@@ -221,5 +221,11 @@ __marimo__/
 .DS_Store
 
 # LLM
-
 modelos/llm
+
+# Shared
+shared/input/financiera
+shared/input/sindicales
+shared/metadata/sindicales
+shared/output/financiera/textos/contratos
+shared/output/financiera/textos/pagos
