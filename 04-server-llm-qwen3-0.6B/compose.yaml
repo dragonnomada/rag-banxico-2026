@@ -1,0 +1,27 @@
+services:
+  qwen3-0.6b:
+    image: ghcr.io/ggml-org/llama.cpp:server
+    ports:
+      - "8080:8080"
+    container_name: qwen3-0.6b
+    volumes:
+      - ../modelos/llm:/llm:ro
+    command:
+      - "--model"
+      - "/llm/Qwen3-0.6B-Q4_0.gguf"
+      - "--host"
+      - "0.0.0.0"
+      - "--port"
+      - "8080"
+      - "-c"
+      - "4096"
+      - "-ngl"
+      - "99"
+    restart: unless-stopped
+    mem_limit: 2g
+    networks:
+      - llm-local-network
+
+networks:
+  llm-local-network:
+    external: true

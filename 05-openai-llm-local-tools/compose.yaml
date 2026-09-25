@@ -1,0 +1,11 @@
+services:
+
+  openai-llm-local-tools:
+    build: .
+    container_name: openai-llm-local-tools
+    networks:
+      - llm-local-network
+
+networks:
+  llm-local-network:
+    external: true
