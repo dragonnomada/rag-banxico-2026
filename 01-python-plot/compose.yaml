@@ -1,0 +1,8 @@
+services:
+
+  graficador:
+    build: .
+    container_name: 01-python
+    volumes:
+      - ../conjuntos:/app/conjuntos:ro
+      - ../shared/output:/app/shared/output

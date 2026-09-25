@@ -1,0 +1,12 @@
+numpy
+pandas
+
+matplotlib
+seaborn
+
+tensorflow
+keras
+
+fastapi
+pydantic
+uvicorn

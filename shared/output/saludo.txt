@@ -1,0 +1,9 @@
+Hola desde python
+Tu archivo contiene:
+--------------------------------------------------------------------------------
+Hola Python 🐍 desde un archivo compartido :D
+
+
+Actualizado hoy
+--------------------------------------------------------------------------------
+Adiós 👌

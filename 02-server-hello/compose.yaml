@@ -1,0 +1,7 @@
+services:
+
+  server-hello:
+    build: .
+    container_name: server-hello
+    ports:
+      - "5000:5000"

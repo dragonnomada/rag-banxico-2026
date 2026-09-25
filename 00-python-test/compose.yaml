@@ -1,0 +1,8 @@
+services:
+
+  prueba:
+    build: .
+    container_name: 00-python
+    volumes:
+      - ../shared/input:/shared/input:ro
+      - ../shared/output:/shared/output
