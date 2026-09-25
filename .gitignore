@@ -222,6 +222,7 @@ __marimo__/
 
 # LLM
 modelos/llm
+modelos/embeddings
 
 # Shared
 shared/input/financiera
