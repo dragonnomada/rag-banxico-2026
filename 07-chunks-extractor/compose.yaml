@@ -1,0 +1,7 @@
+services:
+
+  chunks-extractor:
+    build: .
+    container_name: chunks-extractor
+    volumes:
+      - ../shared/output:/app/shared/output

@@ -1,0 +1,7 @@
+services:
+
+  rag-llm:
+    build: .
+    container_name: rag-llm
+    volumes:
+      - ../shared/output:/app/shared/output

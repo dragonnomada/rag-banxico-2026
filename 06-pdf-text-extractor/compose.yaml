@@ -1,0 +1,8 @@
+services:
+
+  pdf-text-extractor:
+    build: .
+    container_name: pdf-text-extractor
+    volumes:
+      - ../shared/input:/app/shared/input:ro
+      - ../shared/output:/app/shared/output

@@ -1,0 +1,7 @@
+services:
+
+  rag-faiss:
+    build: .
+    container_name: rag-faiss
+    volumes:
+      - ../shared/output:/app/shared/output
