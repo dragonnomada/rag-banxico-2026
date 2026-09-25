@@ -1,0 +1,770 @@
+[
+    {
+        "id": "contrato-1004-0001",
+        "contrato": "1004",
+        "tipo": "contrato",
+        "archivo": "1004.txt",
+        "chunk": 1,
+        "texto": "CONTRATO\nFOLIO\n001004\nDATOS DEL VENDEDOR\nNOMBRE SUCURSAL\nDATOS DEL CLIENTE\nNOMBRE DEL CLIENTE\nDATOS DEL EQUIPO\nIMEI ID DEL DISPOSITIVO\nMARCA Y MODELO VARIANTE\nXIAOMI REDMI A7 NUEVO CLIENTE\nALMACENAMIENTO MEMORIA\n64 GB 3 GB\n1 / 3\n\nDATOS DEL FINANCIAMIENTO\nSEMANAS PLAN\n26 NUEVO\nPRECIO DE CONTADO PRECIO FINAL\n$ 3,999.00 $ 6,879.00\nINTERÉS ANTICIPO\n190.0% $ 799.00\nSUBTOTAL PAGO SEMANAL\n$ 6,080.00 $ 233.85\nConcepto Fecha de pago Monto del pago Saldo pendiente\nAnticipo 2026-08-24 $ 799.00 $ 6,879.00\nSubtotal 2026-08-24 $ 0.00 $ 6,080.00\nPago 1 de 26 2026-08-31 $ 233.85 $ 5,846.15\nPago 2 de 26 2026-09-07 $ 233.85 $ 5,612.30\nPago 3 de 26 2026-09-14 $ 233.85 $ 5,378.45\nPago 4 de 26 2026-09-21 $ 233.85 $ 5,144.60\nPago 5 de 26 2026-09-28 $ 233.85 $ 4,910.75\nPago 6 de 26 2026-10-05 $ 233.85 $ 4,676.90"
+    },
+    {
+        "id": "contrato-1004-0002",
+        "contrato": "1004",
+        "tipo": "contrato",
+        "archivo": "1004.txt",
+        "chunk": 2,
+        "texto": "233.85 $ 5,378.45\nPago 4 de 26 2026-09-21 $ 233.85 $ 5,144.60\nPago 5 de 26 2026-09-28 $ 233.85 $ 4,910.75\nPago 6 de 26 2026-10-05 $ 233.85 $ 4,676.90\nPago 7 de 26 2026-10-12 $ 233.85 $ 4,443.05\nPago 8 de 26 2026-10-19 $ 233.85 $ 4,209.20\nPago 9 de 26 2026-10-26 $ 233.85 $ 3,975.35\nPago 10 de 26 2026-11-02 $ 233.85 $ 3,741.50\nPago 11 de 26 2026-11-09 $ 233.85 $ 3,507.65\nPago 12 de 26 2026-11-16 $ 233.85 $ 3,273.80\nPago 13 de 26 2026-11-23 $ 233.85 $ 3,039.95\nPago 14 de 26 2026-11-30 $ 233.85 $ 2,806.10\nPago 15 de 26 2026-12-07 $ 233.85 $ 2,572.25\nPago 16 de 26 2026-12-14 $ 233.85 $ 2,338.40\nPago 17 de 26 2026-12-21 $ 233.85 $ 2,104.55\nPago 18 de 26 2026-12-28 $ 233.85 $ 1,870.70\nPago 19 de 26 2027-01-04 $ 233.85 $ 1,636.85\nPago 20 de 26 2027-01-11 $ 233.85 $ 1,403.00\nPago 21 de 26 2027-01-"
+    },
+    {
+        "id": "contrato-1004-0003",
+        "contrato": "1004",
+        "tipo": "contrato",
+        "archivo": "1004.txt",
+        "chunk": 3,
+        "texto": "de 26 2026-12-28 $ 233.85 $ 1,870.70\nPago 19 de 26 2027-01-04 $ 233.85 $ 1,636.85\nPago 20 de 26 2027-01-11 $ 233.85 $ 1,403.00\nPago 21 de 26 2027-01-18 $ 233.85 $ 1,169.15\nPago 22 de 26 2027-01-25 $ 233.85 $ 935.30\nPago 23 de 26 2027-02-01 $ 233.85 $ 701.45\nPago 24 de 26 2027-02-08 $ 233.85 $ 467.60\nPago 25 de 26 2027-02-15 $ 233.85 $ 233.75\nPago 26 de 26 2027-02-22 $ 233.75 $ 0.00\n2 / 3\n\nTérminos y condiciones\n3 / 3"
+    },
+    {
+        "id": "contrato-1008-0001",
+        "contrato": "1008",
+        "tipo": "contrato",
+        "archivo": "1008.txt",
+        "chunk": 1,
+        "texto": "CONTRATO\nFOLIO\n001008\nDATOS DEL VENDEDOR\nNOMBRE SUCURSAL\nDATOS DEL CLIENTE\nNOMBRE DEL CLIENTE\nDATOS DEL EQUIPO\nIMEI ID DEL DISPOSITIVO\nMARCA Y MODELO VARIANTE\nXIAOMI REDMI A7 NUEVO CLIENTE\nALMACENAMIENTO MEMORIA\n64 GB 3 GB\n1 / 4\n\nDATOS DEL FINANCIAMIENTO\nSEMANAS PLAN\n43 NUEVO\nPRECIO DE CONTADO PRECIO FINAL\n$ 3,999.00 $ 8,159.00\nINTERÉS ANTICIPO\n230.0% $ 799.00\nSUBTOTAL PAGO SEMANAL\n$ 7,360.00 $ 171.16\nConcepto Fecha de pago Monto del pago Saldo pendiente\nAnticipo 2026-08-29 $ 799.00 $ 8,159.00\nSubtotal 2026-08-29 $ 0.00 $ 7,360.00\nPago 1 de 43 2026-09-05 $ 171.16 $ 7,188.84\nPago 2 de 43 2026-09-12 $ 171.16 $ 7,017.68\nPago 3 de 43 2026-09-19 $ 171.16 $ 6,846.52\nPago 4 de 43 2026-09-26 $ 171.16 $ 6,675.36\nPago 5 de 43 2026-10-03 $ 171.16 $ 6,504.20\nPago 6 de 43 2026-10-10 $ 171.16 $ 6,333.04"
+    },
+    {
+        "id": "contrato-1008-0002",
+        "contrato": "1008",
+        "tipo": "contrato",
+        "archivo": "1008.txt",
+        "chunk": 2,
+        "texto": "171.16 $ 6,846.52\nPago 4 de 43 2026-09-26 $ 171.16 $ 6,675.36\nPago 5 de 43 2026-10-03 $ 171.16 $ 6,504.20\nPago 6 de 43 2026-10-10 $ 171.16 $ 6,333.04\nPago 7 de 43 2026-10-17 $ 171.16 $ 6,161.88\nPago 8 de 43 2026-10-24 $ 171.16 $ 5,990.72\nPago 9 de 43 2026-10-31 $ 171.16 $ 5,819.56\nPago 10 de 43 2026-11-07 $ 171.16 $ 5,648.40\nPago 11 de 43 2026-11-14 $ 171.16 $ 5,477.24\nPago 12 de 43 2026-11-21 $ 171.16 $ 5,306.08\nPago 13 de 43 2026-11-28 $ 171.16 $ 5,134.92\nPago 14 de 43 2026-12-05 $ 171.16 $ 4,963.76\nPago 15 de 43 2026-12-12 $ 171.16 $ 4,792.60\nPago 16 de 43 2026-12-19 $ 171.16 $ 4,621.44\nPago 17 de 43 2026-12-26 $ 171.16 $ 4,450.28\nPago 18 de 43 2027-01-02 $ 171.16 $ 4,279.12\nPago 19 de 43 2027-01-09 $ 171.16 $ 4,107.96\nPago 20 de 43 2027-01-16 $ 171.16 $ 3,936.80\nPago 21 de 43 2027-01-"
+    },
+    {
+        "id": "contrato-1008-0003",
+        "contrato": "1008",
+        "tipo": "contrato",
+        "archivo": "1008.txt",
+        "chunk": 3,
+        "texto": "de 43 2027-01-02 $ 171.16 $ 4,279.12\nPago 19 de 43 2027-01-09 $ 171.16 $ 4,107.96\nPago 20 de 43 2027-01-16 $ 171.16 $ 3,936.80\nPago 21 de 43 2027-01-23 $ 171.16 $ 3,765.64\nPago 22 de 43 2027-01-30 $ 171.16 $ 3,594.48\nPago 23 de 43 2027-02-06 $ 171.16 $ 3,423.32\nPago 24 de 43 2027-02-13 $ 171.16 $ 3,252.16\nPago 25 de 43 2027-02-20 $ 171.16 $ 3,081.00\nPago 26 de 43 2027-02-27 $ 171.16 $ 2,909.84\n2 / 4\n\nConcepto Fecha de pago Monto del pago Saldo pendiente\nPago 27 de 43 2027-03-06 $ 171.16 $ 2,738.68\nPago 28 de 43 2027-03-13 $ 171.16 $ 2,567.52\nPago 29 de 43 2027-03-20 $ 171.16 $ 2,396.36\nPago 30 de 43 2027-03-27 $ 171.16 $ 2,225.20\nPago 31 de 43 2027-04-03 $ 171.16 $ 2,054.04\nPago 32 de 43 2027-04-10 $ 171.16 $ 1,882.88\nPago 33 de 43 2027-04-17 $ 171.16 $ 1,711.72\nPago 34 de 43 2027-04-24 $"
+    },
+    {
+        "id": "contrato-1008-0004",
+        "contrato": "1008",
+        "tipo": "contrato",
+        "archivo": "1008.txt",
+        "chunk": 4,
+        "texto": "43 2027-04-03 $ 171.16 $ 2,054.04\nPago 32 de 43 2027-04-10 $ 171.16 $ 1,882.88\nPago 33 de 43 2027-04-17 $ 171.16 $ 1,711.72\nPago 34 de 43 2027-04-24 $ 171.16 $ 1,540.56\nPago 35 de 43 2027-05-01 $ 171.16 $ 1,369.40\nPago 36 de 43 2027-05-08 $ 171.16 $ 1,198.24\nPago 37 de 43 2027-05-15 $ 171.16 $ 1,027.08\nPago 38 de 43 2027-05-22 $ 171.16 $ 855.92\nPago 39 de 43 2027-05-29 $ 171.16 $ 684.76\nPago 40 de 43 2027-06-05 $ 171.16 $ 513.60\nPago 41 de 43 2027-06-12 $ 171.16 $ 342.44\nPago 42 de 43 2027-06-19 $ 171.16 $ 171.28\nPago 43 de 43 2027-06-26 $ 171.28 $ 0.00\n3 / 4\n\nTérminos y condiciones\n4 / 4"
+    },
+    {
+        "id": "contrato-1009-0001",
+        "contrato": "1009",
+        "tipo": "contrato",
+        "archivo": "1009.txt",
+        "chunk": 1,
+        "texto": "CONTRATO\nFOLIO\n001009\nDATOS DEL VENDEDOR\nNOMBRE SUCURSAL\nDATOS DEL CLIENTE\nNOMBRE DEL CLIENTE\nDATOS DEL EQUIPO\nIMEI ID DEL DISPOSITIVO\nMARCA Y MODELO VARIANTE\nXIAOMI REDMI A7 NUEVO CLIENTE\nALMACENAMIENTO MEMORIA\n64 GB 3 GB\n1 / 3\n\nDATOS DEL FINANCIAMIENTO\nSEMANAS PLAN\n26 NUEVO\nPRECIO DE CONTADO PRECIO FINAL\n$ 3,999.00 $ 6,879.00\nINTERÉS ANTICIPO\n190.0% $ 799.00\nSUBTOTAL PAGO SEMANAL\n$ 6,080.00 $ 233.85\nConcepto Fecha de pago Monto del pago Saldo pendiente\nAnticipo 2026-08-29 $ 799.00 $ 6,879.00\nSubtotal 2026-08-29 $ 0.00 $ 6,080.00\nPago 1 de 26 2026-09-05 $ 233.85 $ 5,846.15\nPago 2 de 26 2026-09-12 $ 233.85 $ 5,612.30\nPago 3 de 26 2026-09-19 $ 233.85 $ 5,378.45\nPago 4 de 26 2026-09-26 $ 233.85 $ 5,144.60\nPago 5 de 26 2026-10-03 $ 233.85 $ 4,910.75\nPago 6 de 26 2026-10-10 $ 233.85 $ 4,676.90"
+    },
+    {
+        "id": "contrato-1009-0002",
+        "contrato": "1009",
+        "tipo": "contrato",
+        "archivo": "1009.txt",
+        "chunk": 2,
+        "texto": "233.85 $ 5,378.45\nPago 4 de 26 2026-09-26 $ 233.85 $ 5,144.60\nPago 5 de 26 2026-10-03 $ 233.85 $ 4,910.75\nPago 6 de 26 2026-10-10 $ 233.85 $ 4,676.90\nPago 7 de 26 2026-10-17 $ 233.85 $ 4,443.05\nPago 8 de 26 2026-10-24 $ 233.85 $ 4,209.20\nPago 9 de 26 2026-10-31 $ 233.85 $ 3,975.35\nPago 10 de 26 2026-11-07 $ 233.85 $ 3,741.50\nPago 11 de 26 2026-11-14 $ 233.85 $ 3,507.65\nPago 12 de 26 2026-11-21 $ 233.85 $ 3,273.80\nPago 13 de 26 2026-11-28 $ 233.85 $ 3,039.95\nPago 14 de 26 2026-12-05 $ 233.85 $ 2,806.10\nPago 15 de 26 2026-12-12 $ 233.85 $ 2,572.25\nPago 16 de 26 2026-12-19 $ 233.85 $ 2,338.40\nPago 17 de 26 2026-12-26 $ 233.85 $ 2,104.55\nPago 18 de 26 2027-01-02 $ 233.85 $ 1,870.70\nPago 19 de 26 2027-01-09 $ 233.85 $ 1,636.85\nPago 20 de 26 2027-01-16 $ 233.85 $ 1,403.00\nPago 21 de 26 2027-01-"
+    },
+    {
+        "id": "contrato-1009-0003",
+        "contrato": "1009",
+        "tipo": "contrato",
+        "archivo": "1009.txt",
+        "chunk": 3,
+        "texto": "de 26 2027-01-02 $ 233.85 $ 1,870.70\nPago 19 de 26 2027-01-09 $ 233.85 $ 1,636.85\nPago 20 de 26 2027-01-16 $ 233.85 $ 1,403.00\nPago 21 de 26 2027-01-23 $ 233.85 $ 1,169.15\nPago 22 de 26 2027-01-30 $ 233.85 $ 935.30\nPago 23 de 26 2027-02-06 $ 233.85 $ 701.45\nPago 24 de 26 2027-02-13 $ 233.85 $ 467.60\nPago 25 de 26 2027-02-20 $ 233.85 $ 233.75\nPago 26 de 26 2027-02-27 $ 233.75 $ 0.00\n2 / 3\n\nTérminos y condiciones\n3 / 3"
+    },
+    {
+        "id": "contrato-1011-0001",
+        "contrato": "1011",
+        "tipo": "contrato",
+        "archivo": "1011.txt",
+        "chunk": 1,
+        "texto": "CONTRATO\nFOLIO\n001011\nDATOS DEL VENDEDOR\nNOMBRE SUCURSAL\nDATOS DEL CLIENTE\nNOMBRE DEL CLIENTE\nDATOS DEL EQUIPO\nIMEI ID DEL DISPOSITIVO\nMARCA Y MODELO VARIANTE\nXIAOMI REDMI A7 PRO ACCESS NUEVO CLIENTE\nALMACENAMIENTO MEMORIA\n128 GB GB 4 GB GB\n1 / 3\n\nDATOS DEL FINANCIAMIENTO\nSEMANAS PLAN\n26 NUEVO\nPRECIO DE CONTADO PRECIO FINAL\n$ 5,699.00 $ 9,929.00\nINTERÉS ANTICIPO\n190.0% $ 999.00\nSUBTOTAL PAGO SEMANAL\n$ 8,930.00 $ 343.46\nConcepto Fecha de pago Monto del pago Saldo pendiente\nAnticipo 2026-08-30 $ 999.00 $ 9,929.00\nSubtotal 2026-08-30 $ 0.00 $ 8,930.00\nPago 1 de 26 2026-09-06 $ 343.46 $ 8,586.54\nPago 2 de 26 2026-09-13 $ 343.46 $ 8,243.08\nPago 3 de 26 2026-09-20 $ 343.46 $ 7,899.62\nPago 4 de 26 2026-09-27 $ 343.46 $ 7,556.16\nPago 5 de 26 2026-10-04 $ 343.46 $ 7,212.70\nPago 6 de 26 2026-10-11 $"
+    },
+    {
+        "id": "contrato-1011-0002",
+        "contrato": "1011",
+        "tipo": "contrato",
+        "archivo": "1011.txt",
+        "chunk": 2,
+        "texto": "de 26 2026-09-20 $ 343.46 $ 7,899.62\nPago 4 de 26 2026-09-27 $ 343.46 $ 7,556.16\nPago 5 de 26 2026-10-04 $ 343.46 $ 7,212.70\nPago 6 de 26 2026-10-11 $ 343.46 $ 6,869.24\nPago 7 de 26 2026-10-18 $ 343.46 $ 6,525.78\nPago 8 de 26 2026-10-25 $ 343.46 $ 6,182.32\nPago 9 de 26 2026-11-01 $ 343.46 $ 5,838.86\nPago 10 de 26 2026-11-08 $ 343.46 $ 5,495.40\nPago 11 de 26 2026-11-15 $ 343.46 $ 5,151.94\nPago 12 de 26 2026-11-22 $ 343.46 $ 4,808.48\nPago 13 de 26 2026-11-29 $ 343.46 $ 4,465.02\nPago 14 de 26 2026-12-06 $ 343.46 $ 4,121.56\nPago 15 de 26 2026-12-13 $ 343.46 $ 3,778.10\nPago 16 de 26 2026-12-20 $ 343.46 $ 3,434.64\nPago 17 de 26 2026-12-27 $ 343.46 $ 3,091.18\nPago 18 de 26 2027-01-03 $ 343.46 $ 2,747.72\nPago 19 de 26 2027-01-10 $ 343.46 $ 2,404.26\nPago 20 de 26 2027-01-17 $ 343.46 $ 2,060.80\nPago"
+    },
+    {
+        "id": "contrato-1011-0003",
+        "contrato": "1011",
+        "tipo": "contrato",
+        "archivo": "1011.txt",
+        "chunk": 3,
+        "texto": "$ 3,091.18\nPago 18 de 26 2027-01-03 $ 343.46 $ 2,747.72\nPago 19 de 26 2027-01-10 $ 343.46 $ 2,404.26\nPago 20 de 26 2027-01-17 $ 343.46 $ 2,060.80\nPago 21 de 26 2027-01-24 $ 343.46 $ 1,717.34\nPago 22 de 26 2027-01-31 $ 343.46 $ 1,373.88\nPago 23 de 26 2027-02-07 $ 343.46 $ 1,030.42\nPago 24 de 26 2027-02-14 $ 343.46 $ 686.96\nPago 25 de 26 2027-02-21 $ 343.46 $ 343.50\nPago 26 de 26 2027-02-28 $ 343.50 $ 0.00\n2 / 3\n\nTérminos y condiciones\n3 / 3"
+    },
+    {
+        "id": "contrato-1013-0001",
+        "contrato": "1013",
+        "tipo": "contrato",
+        "archivo": "1013.txt",
+        "chunk": 1,
+        "texto": "CONTRATO\nFOLIO\n001013\nDATOS DEL VENDEDOR\nNOMBRE SUCURSAL\nDATOS DEL CLIENTE\nNOMBRE DEL CLIENTE\nDATOS DEL EQUIPO\nIMEI ID DEL DISPOSITIVO\nMARCA Y MODELO VARIANTE\nXIAOMI REDMI A7 NUEVO CLIENTE\nALMACENAMIENTO MEMORIA\n64 GB 3 GB\n1 / 4\n\nDATOS DEL FINANCIAMIENTO\nSEMANAS PLAN\n43 NUEVO\nPRECIO DE CONTADO PRECIO FINAL\n$ 3,999.00 $ 8,159.00\nINTERÉS ANTICIPO\n230.0% $ 799.00\nSUBTOTAL PAGO SEMANAL\n$ 7,360.00 $ 171.16\nConcepto Fecha de pago Monto del pago Saldo pendiente\nAnticipo 2026-08-30 $ 799.00 $ 8,159.00\nSubtotal 2026-08-30 $ 0.00 $ 7,360.00\nPago 1 de 43 2026-09-06 $ 171.16 $ 7,188.84\nPago 2 de 43 2026-09-13 $ 171.16 $ 7,017.68\nPago 3 de 43 2026-09-20 $ 171.16 $ 6,846.52\nPago 4 de 43 2026-09-27 $ 171.16 $ 6,675.36\nPago 5 de 43 2026-10-04 $ 171.16 $ 6,504.20\nPago 6 de 43 2026-10-11 $ 171.16 $ 6,333.04"
+    },
+    {
+        "id": "contrato-1013-0002",
+        "contrato": "1013",
+        "tipo": "contrato",
+        "archivo": "1013.txt",
+        "chunk": 2,
+        "texto": "171.16 $ 6,846.52\nPago 4 de 43 2026-09-27 $ 171.16 $ 6,675.36\nPago 5 de 43 2026-10-04 $ 171.16 $ 6,504.20\nPago 6 de 43 2026-10-11 $ 171.16 $ 6,333.04\nPago 7 de 43 2026-10-18 $ 171.16 $ 6,161.88\nPago 8 de 43 2026-10-25 $ 171.16 $ 5,990.72\nPago 9 de 43 2026-11-01 $ 171.16 $ 5,819.56\nPago 10 de 43 2026-11-08 $ 171.16 $ 5,648.40\nPago 11 de 43 2026-11-15 $ 171.16 $ 5,477.24\nPago 12 de 43 2026-11-22 $ 171.16 $ 5,306.08\nPago 13 de 43 2026-11-29 $ 171.16 $ 5,134.92\nPago 14 de 43 2026-12-06 $ 171.16 $ 4,963.76\nPago 15 de 43 2026-12-13 $ 171.16 $ 4,792.60\nPago 16 de 43 2026-12-20 $ 171.16 $ 4,621.44\nPago 17 de 43 2026-12-27 $ 171.16 $ 4,450.28\nPago 18 de 43 2027-01-03 $ 171.16 $ 4,279.12\nPago 19 de 43 2027-01-10 $ 171.16 $ 4,107.96\nPago 20 de 43 2027-01-17 $ 171.16 $ 3,936.80\nPago 21 de 43 2027-01-"
+    },
+    {
+        "id": "contrato-1013-0003",
+        "contrato": "1013",
+        "tipo": "contrato",
+        "archivo": "1013.txt",
+        "chunk": 3,
+        "texto": "de 43 2027-01-03 $ 171.16 $ 4,279.12\nPago 19 de 43 2027-01-10 $ 171.16 $ 4,107.96\nPago 20 de 43 2027-01-17 $ 171.16 $ 3,936.80\nPago 21 de 43 2027-01-24 $ 171.16 $ 3,765.64\nPago 22 de 43 2027-01-31 $ 171.16 $ 3,594.48\nPago 23 de 43 2027-02-07 $ 171.16 $ 3,423.32\nPago 24 de 43 2027-02-14 $ 171.16 $ 3,252.16\nPago 25 de 43 2027-02-21 $ 171.16 $ 3,081.00\nPago 26 de 43 2027-02-28 $ 171.16 $ 2,909.84\n2 / 4\n\nConcepto Fecha de pago Monto del pago Saldo pendiente\nPago 27 de 43 2027-03-07 $ 171.16 $ 2,738.68\nPago 28 de 43 2027-03-14 $ 171.16 $ 2,567.52\nPago 29 de 43 2027-03-21 $ 171.16 $ 2,396.36\nPago 30 de 43 2027-03-28 $ 171.16 $ 2,225.20\nPago 31 de 43 2027-04-04 $ 171.16 $ 2,054.04\nPago 32 de 43 2027-04-11 $ 171.16 $ 1,882.88\nPago 33 de 43 2027-04-18 $ 171.16 $ 1,711.72\nPago 34 de 43 2027-04-25 $"
+    },
+    {
+        "id": "contrato-1013-0004",
+        "contrato": "1013",
+        "tipo": "contrato",
+        "archivo": "1013.txt",
+        "chunk": 4,
+        "texto": "43 2027-04-04 $ 171.16 $ 2,054.04\nPago 32 de 43 2027-04-11 $ 171.16 $ 1,882.88\nPago 33 de 43 2027-04-18 $ 171.16 $ 1,711.72\nPago 34 de 43 2027-04-25 $ 171.16 $ 1,540.56\nPago 35 de 43 2027-05-02 $ 171.16 $ 1,369.40\nPago 36 de 43 2027-05-09 $ 171.16 $ 1,198.24\nPago 37 de 43 2027-05-16 $ 171.16 $ 1,027.08\nPago 38 de 43 2027-05-23 $ 171.16 $ 855.92\nPago 39 de 43 2027-05-30 $ 171.16 $ 684.76\nPago 40 de 43 2027-06-06 $ 171.16 $ 513.60\nPago 41 de 43 2027-06-13 $ 171.16 $ 342.44\nPago 42 de 43 2027-06-20 $ 171.16 $ 171.28\nPago 43 de 43 2027-06-27 $ 171.28 $ 0.00\n3 / 4\n\nTérminos y condiciones\n4 / 4"
+    },
+    {
+        "id": "contrato-1015-0001",
+        "contrato": "1015",
+        "tipo": "contrato",
+        "archivo": "1015.txt",
+        "chunk": 1,
+        "texto": "CONTRATO\nFOLIO\n001015\nDATOS DEL VENDEDOR\nNOMBRE SUCURSAL\nDATOS DEL CLIENTE\nNOMBRE DEL CLIENTE\nDATOS DEL EQUIPO\nIMEI ID DEL DISPOSITIVO\nMARCA Y MODELO VARIANTE\nINFINIX HOT 70 Enganche 3000\nALMACENAMIENTO MEMORIA\n256 GB 8 GB\n1 / 3\n\nDATOS DEL FINANCIAMIENTO\nSEMANAS PLAN\n18 RENOVACIÓN\nPRECIO DE CONTADO PRECIO FINAL\n$ 5,999.00 $ 7,648.45\nINTERÉS ANTICIPO\n155.0% $ 3,000.00\nSUBTOTAL PAGO SEMANAL\n$ 4,648.45 $ 258.25\nConcepto Fecha de pago Monto del pago Saldo pendiente\nAnticipo 2026-08-31 $ 3,000.00 $ 7,648.45\nSubtotal 2026-08-31 $ 0.00 $ 4,648.45\nPago 1 de 18 2026-09-07 $ 258.25 $ 4,390.20\nPago 2 de 18 2026-09-14 $ 258.25 $ 4,131.95\nPago 3 de 18 2026-09-21 $ 258.25 $ 3,873.70\nPago 4 de 18 2026-09-28 $ 258.25 $ 3,615.45\nPago 5 de 18 2026-10-05 $ 258.25 $ 3,357.20\nPago 6 de 18 2026-10-12 $ 258.25 $"
+    },
+    {
+        "id": "contrato-1015-0002",
+        "contrato": "1015",
+        "tipo": "contrato",
+        "archivo": "1015.txt",
+        "chunk": 2,
+        "texto": "6-09-21 $ 258.25 $ 3,873.70\nPago 4 de 18 2026-09-28 $ 258.25 $ 3,615.45\nPago 5 de 18 2026-10-05 $ 258.25 $ 3,357.20\nPago 6 de 18 2026-10-12 $ 258.25 $ 3,098.95\nPago 7 de 18 2026-10-19 $ 258.25 $ 2,840.70\nPago 8 de 18 2026-10-26 $ 258.25 $ 2,582.45\nPago 9 de 18 2026-11-02 $ 258.25 $ 2,324.20\nPago 10 de 18 2026-11-09 $ 258.25 $ 2,065.95\nPago 11 de 18 2026-11-16 $ 258.25 $ 1,807.70\nPago 12 de 18 2026-11-23 $ 258.25 $ 1,549.45\nPago 13 de 18 2026-11-30 $ 258.25 $ 1,291.20\nPago 14 de 18 2026-12-07 $ 258.25 $ 1,032.95\nPago 15 de 18 2026-12-14 $ 258.25 $ 774.70\nPago 16 de 18 2026-12-21 $ 258.25 $ 516.45\nPago 17 de 18 2026-12-28 $ 258.25 $ 258.20\nPago 18 de 18 2027-01-04 $ 258.20 $ 0.00\n2 / 3\n\nTérminos y condiciones\n3 / 3"
+    },
+    {
+        "id": "contrato-1015-0003",
+        "contrato": "1015",
+        "tipo": "contrato",
+        "archivo": "1015.txt",
+        "chunk": 3,
+        "texto": "18 de 18 2027-01-04 $ 258.20 $ 0.00\n2 / 3\n\nTérminos y condiciones\n3 / 3"
+    },
+    {
+        "id": "contrato-1016-0001",
+        "contrato": "1016",
+        "tipo": "contrato",
+        "archivo": "1016.txt",
+        "chunk": 1,
+        "texto": "CONTRATO\nFOLIO\n001016\nDATOS DEL VENDEDOR\nNOMBRE SUCURSAL\nDATOS DEL CLIENTE\nNOMBRE DEL CLIENTE\nDATOS DEL EQUIPO\nIMEI ID DEL DISPOSITIVO\nMARCA Y MODELO VARIANTE\nXIAOMI REDMI A7 PRO ACCESS NUEVO CLIENTE\nALMACENAMIENTO MEMORIA\n128 GB GB 4 GB GB\n1 / 4\n\nDATOS DEL FINANCIAMIENTO\nSEMANAS PLAN\n43 NUEVO\nPRECIO DE CONTADO PRECIO FINAL\n$ 5,699.00 $ 11,809.00\nINTERÉS ANTICIPO\n230.0% $ 999.00\nSUBTOTAL PAGO SEMANAL\n$ 10,810.00 $ 251.40\nConcepto Fecha de pago Monto del pago Saldo pendiente\nAnticipo 2026-09-01 $ 999.00 $ 11,809.00\nSubtotal 2026-09-01 $ 0.00 $ 10,810.00\nPago 1 de 43 2026-09-08 $ 251.40 $ 10,558.60\nPago 2 de 43 2026-09-15 $ 251.40 $ 10,307.20\nPago 3 de 43 2026-09-22 $ 251.40 $ 10,055.80\nPago 4 de 43 2026-09-29 $ 251.40 $ 9,804.40\nPago 5 de 43 2026-10-06 $ 251.40 $ 9,553.00\nPago 6 de 43 2026-"
+    },
+    {
+        "id": "contrato-1016-0002",
+        "contrato": "1016",
+        "tipo": "contrato",
+        "archivo": "1016.txt",
+        "chunk": 2,
+        "texto": "ago 3 de 43 2026-09-22 $ 251.40 $ 10,055.80\nPago 4 de 43 2026-09-29 $ 251.40 $ 9,804.40\nPago 5 de 43 2026-10-06 $ 251.40 $ 9,553.00\nPago 6 de 43 2026-10-13 $ 251.40 $ 9,301.60\nPago 7 de 43 2026-10-20 $ 251.40 $ 9,050.20\nPago 8 de 43 2026-10-27 $ 251.40 $ 8,798.80\nPago 9 de 43 2026-11-03 $ 251.40 $ 8,547.40\nPago 10 de 43 2026-11-10 $ 251.40 $ 8,296.00\nPago 11 de 43 2026-11-17 $ 251.40 $ 8,044.60\nPago 12 de 43 2026-11-24 $ 251.40 $ 7,793.20\nPago 13 de 43 2026-12-01 $ 251.40 $ 7,541.80\nPago 14 de 43 2026-12-08 $ 251.40 $ 7,290.40\nPago 15 de 43 2026-12-15 $ 251.40 $ 7,039.00\nPago 16 de 43 2026-12-22 $ 251.40 $ 6,787.60\nPago 17 de 43 2026-12-29 $ 251.40 $ 6,536.20\nPago 18 de 43 2027-01-05 $ 251.40 $ 6,284.80\nPago 19 de 43 2027-01-12 $ 251.40 $ 6,033.40\nPago 20 de 43 2027-01-19 $ 251.40 $ 5,782."
+    },
+    {
+        "id": "contrato-1016-0003",
+        "contrato": "1016",
+        "tipo": "contrato",
+        "archivo": "1016.txt",
+        "chunk": 3,
+        "texto": "251.40 $ 6,536.20\nPago 18 de 43 2027-01-05 $ 251.40 $ 6,284.80\nPago 19 de 43 2027-01-12 $ 251.40 $ 6,033.40\nPago 20 de 43 2027-01-19 $ 251.40 $ 5,782.00\nPago 21 de 43 2027-01-26 $ 251.40 $ 5,530.60\nPago 22 de 43 2027-02-02 $ 251.40 $ 5,279.20\nPago 23 de 43 2027-02-09 $ 251.40 $ 5,027.80\nPago 24 de 43 2027-02-16 $ 251.40 $ 4,776.40\nPago 25 de 43 2027-02-23 $ 251.40 $ 4,525.00\nPago 26 de 43 2027-03-02 $ 251.40 $ 4,273.60\n2 / 4\n\nConcepto Fecha de pago Monto del pago Saldo pendiente\nPago 27 de 43 2027-03-09 $ 251.40 $ 4,022.20\nPago 28 de 43 2027-03-16 $ 251.40 $ 3,770.80\nPago 29 de 43 2027-03-23 $ 251.40 $ 3,519.40\nPago 30 de 43 2027-03-30 $ 251.40 $ 3,268.00\nPago 31 de 43 2027-04-06 $ 251.40 $ 3,016.60\nPago 32 de 43 2027-04-13 $ 251.40 $ 2,765.20\nPago 33 de 43 2027-04-20 $ 251.40 $ 2,513.80\nP"
+    },
+    {
+        "id": "contrato-1016-0004",
+        "contrato": "1016",
+        "tipo": "contrato",
+        "archivo": "1016.txt",
+        "chunk": 4,
+        "texto": "40 $ 3,268.00\nPago 31 de 43 2027-04-06 $ 251.40 $ 3,016.60\nPago 32 de 43 2027-04-13 $ 251.40 $ 2,765.20\nPago 33 de 43 2027-04-20 $ 251.40 $ 2,513.80\nPago 34 de 43 2027-04-27 $ 251.40 $ 2,262.40\nPago 35 de 43 2027-05-04 $ 251.40 $ 2,011.00\nPago 36 de 43 2027-05-11 $ 251.40 $ 1,759.60\nPago 37 de 43 2027-05-18 $ 251.40 $ 1,508.20\nPago 38 de 43 2027-05-25 $ 251.40 $ 1,256.80\nPago 39 de 43 2027-06-01 $ 251.40 $ 1,005.40\nPago 40 de 43 2027-06-08 $ 251.40 $ 754.00\nPago 41 de 43 2027-06-15 $ 251.40 $ 502.60\nPago 42 de 43 2027-06-22 $ 251.40 $ 251.20\nPago 43 de 43 2027-06-29 $ 251.20 $ 0.00\n3 / 4\n\nTérminos y condiciones\n4 / 4"
+    },
+    {
+        "id": "contrato-1019-0001",
+        "contrato": "1019",
+        "tipo": "contrato",
+        "archivo": "1019.txt",
+        "chunk": 1,
+        "texto": "CONTRATO\nFOLIO\n001019\nDATOS DEL VENDEDOR\nNOMBRE SUCURSAL\nDATOS DEL CLIENTE\nNOMBRE DEL CLIENTE\nDATOS DEL EQUIPO\nIMEI ID DEL DISPOSITIVO\nMARCA Y MODELO VARIANTE\nMOTOROLA MOTO G86 512 NUEVO 1999\nALMACENAMIENTO MEMORIA\n512 GB 8 GB\n1 / 3\n\nDATOS DEL FINANCIAMIENTO\nSEMANAS PLAN\n18 NUEVO\nPRECIO DE CONTADO PRECIO FINAL\n$ 8,499.00 $ 13,049.00\nINTERÉS ANTICIPO\n170.0% $ 1,999.00\nSUBTOTAL PAGO SEMANAL\n$ 11,050.00 $ 613.89\nConcepto Fecha de pago Monto del pago Saldo pendiente\nAnticipo 2026-09-02 $ 1,999.00 $ 13,049.00\nSubtotal 2026-09-02 $ 0.00 $ 11,050.00\nPago 1 de 18 2026-09-09 $ 613.89 $ 10,436.11\nPago 2 de 18 2026-09-16 $ 613.89 $ 9,822.22\nPago 3 de 18 2026-09-23 $ 613.89 $ 9,208.33\nPago 4 de 18 2026-09-30 $ 613.89 $ 8,594.44\nPago 5 de 18 2026-10-07 $ 613.89 $ 7,980.55\nPago 6 de 18 2026-10-14 $ 613."
+    },
+    {
+        "id": "contrato-1019-0002",
+        "contrato": "1019",
+        "tipo": "contrato",
+        "archivo": "1019.txt",
+        "chunk": 2,
+        "texto": "2026-09-23 $ 613.89 $ 9,208.33\nPago 4 de 18 2026-09-30 $ 613.89 $ 8,594.44\nPago 5 de 18 2026-10-07 $ 613.89 $ 7,980.55\nPago 6 de 18 2026-10-14 $ 613.89 $ 7,366.66\nPago 7 de 18 2026-10-21 $ 613.89 $ 6,752.77\nPago 8 de 18 2026-10-28 $ 613.89 $ 6,138.88\nPago 9 de 18 2026-11-04 $ 613.89 $ 5,524.99\nPago 10 de 18 2026-11-11 $ 613.89 $ 4,911.10\nPago 11 de 18 2026-11-18 $ 613.89 $ 4,297.21\nPago 12 de 18 2026-11-25 $ 613.89 $ 3,683.32\nPago 13 de 18 2026-12-02 $ 613.89 $ 3,069.43\nPago 14 de 18 2026-12-09 $ 613.89 $ 2,455.54\nPago 15 de 18 2026-12-16 $ 613.89 $ 1,841.65\nPago 16 de 18 2026-12-23 $ 613.89 $ 1,227.76\nPago 17 de 18 2026-12-30 $ 613.89 $ 613.87\nPago 18 de 18 2027-01-06 $ 613.87 $ 0.00\n2 / 3\n\nTérminos y condiciones\n3 / 3"
+    },
+    {
+        "id": "contrato-1019-0003",
+        "contrato": "1019",
+        "tipo": "contrato",
+        "archivo": "1019.txt",
+        "chunk": 3,
+        "texto": ".87\nPago 18 de 18 2027-01-06 $ 613.87 $ 0.00\n2 / 3\n\nTérminos y condiciones\n3 / 3"
+    },
+    {
+        "id": "contrato-1025-0001",
+        "contrato": "1025",
+        "tipo": "contrato",
+        "archivo": "1025.txt",
+        "chunk": 1,
+        "texto": "CONTRATO\nFOLIO\n001025\nDATOS DEL VENDEDOR\nNOMBRE SUCURSAL\nDATOS DEL CLIENTE\nNOMBRE DEL CLIENTE\nDATOS DEL EQUIPO\nIMEI ID DEL DISPOSITIVO\nMARCA Y MODELO VARIANTE\nXIAOMI REDMI 15C NUEVO CLIENTE\nALMACENAMIENTO MEMORIA\n128 GB GB 4 GB GB\n1 / 4\n\nDATOS DEL FINANCIAMIENTO\nSEMANAS PLAN\n35 NUEVO\nPRECIO DE CONTADO PRECIO FINAL\n$ 5,699.00 $ 10,869.00\nINTERÉS ANTICIPO\n210.0% $ 999.00\nSUBTOTAL PAGO SEMANAL\n$ 9,870.00 $ 282.00\nConcepto Fecha de pago Monto del pago Saldo pendiente\nAnticipo 2026-09-03 $ 999.00 $ 10,869.00\nSubtotal 2026-09-03 $ 0.00 $ 9,870.00\nPago 1 de 35 2026-09-10 $ 282.00 $ 9,588.00\nPago 2 de 35 2026-09-17 $ 282.00 $ 9,306.00\nPago 3 de 35 2026-09-24 $ 282.00 $ 9,024.00\nPago 4 de 35 2026-10-01 $ 282.00 $ 8,742.00\nPago 5 de 35 2026-10-08 $ 282.00 $ 8,460.00\nPago 6 de 35 2026-10-15 $ 282.00"
+    },
+    {
+        "id": "contrato-1025-0002",
+        "contrato": "1025",
+        "tipo": "contrato",
+        "archivo": "1025.txt",
+        "chunk": 2,
+        "texto": "26-09-24 $ 282.00 $ 9,024.00\nPago 4 de 35 2026-10-01 $ 282.00 $ 8,742.00\nPago 5 de 35 2026-10-08 $ 282.00 $ 8,460.00\nPago 6 de 35 2026-10-15 $ 282.00 $ 8,178.00\nPago 7 de 35 2026-10-22 $ 282.00 $ 7,896.00\nPago 8 de 35 2026-10-29 $ 282.00 $ 7,614.00\nPago 9 de 35 2026-11-05 $ 282.00 $ 7,332.00\nPago 10 de 35 2026-11-12 $ 282.00 $ 7,050.00\nPago 11 de 35 2026-11-19 $ 282.00 $ 6,768.00\nPago 12 de 35 2026-11-26 $ 282.00 $ 6,486.00\nPago 13 de 35 2026-12-03 $ 282.00 $ 6,204.00\nPago 14 de 35 2026-12-10 $ 282.00 $ 5,922.00\nPago 15 de 35 2026-12-17 $ 282.00 $ 5,640.00\nPago 16 de 35 2026-12-24 $ 282.00 $ 5,358.00\nPago 17 de 35 2026-12-31 $ 282.00 $ 5,076.00\nPago 18 de 35 2027-01-07 $ 282.00 $ 4,794.00\nPago 19 de 35 2027-01-14 $ 282.00 $ 4,512.00\nPago 20 de 35 2027-01-21 $ 282.00 $ 4,230.00\nPago 21 de 3"
+    },
+    {
+        "id": "contrato-1025-0003",
+        "contrato": "1025",
+        "tipo": "contrato",
+        "archivo": "1025.txt",
+        "chunk": 3,
+        "texto": "00\nPago 18 de 35 2027-01-07 $ 282.00 $ 4,794.00\nPago 19 de 35 2027-01-14 $ 282.00 $ 4,512.00\nPago 20 de 35 2027-01-21 $ 282.00 $ 4,230.00\nPago 21 de 35 2027-01-28 $ 282.00 $ 3,948.00\nPago 22 de 35 2027-02-04 $ 282.00 $ 3,666.00\nPago 23 de 35 2027-02-11 $ 282.00 $ 3,384.00\nPago 24 de 35 2027-02-18 $ 282.00 $ 3,102.00\nPago 25 de 35 2027-02-25 $ 282.00 $ 2,820.00\nPago 26 de 35 2027-03-04 $ 282.00 $ 2,538.00\n2 / 4\n\nConcepto Fecha de pago Monto del pago Saldo pendiente\nPago 27 de 35 2027-03-11 $ 282.00 $ 2,256.00\nPago 28 de 35 2027-03-18 $ 282.00 $ 1,974.00\nPago 29 de 35 2027-03-25 $ 282.00 $ 1,692.00\nPago 30 de 35 2027-04-01 $ 282.00 $ 1,410.00\nPago 31 de 35 2027-04-08 $ 282.00 $ 1,128.00\nPago 32 de 35 2027-04-15 $ 282.00 $ 846.00\nPago 33 de 35 2027-04-22 $ 282.00 $ 564.00\nPago 34 de 35 2027-0"
+    },
+    {
+        "id": "contrato-1025-0004",
+        "contrato": "1025",
+        "tipo": "contrato",
+        "archivo": "1025.txt",
+        "chunk": 4,
+        "texto": "ago 31 de 35 2027-04-08 $ 282.00 $ 1,128.00\nPago 32 de 35 2027-04-15 $ 282.00 $ 846.00\nPago 33 de 35 2027-04-22 $ 282.00 $ 564.00\nPago 34 de 35 2027-04-29 $ 282.00 $ 282.00\nPago 35 de 35 2027-05-06 $ 282.00 $ 0.00\n3 / 4\n\nTérminos y condiciones\n4 / 4"
+    },
+    {
+        "id": "contrato-1030-0001",
+        "contrato": "1030",
+        "tipo": "contrato",
+        "archivo": "1030.txt",
+        "chunk": 1,
+        "texto": "CONTRATO\nFOLIO\n001030\nDATOS DEL VENDEDOR\nNOMBRE SUCURSAL\nDATOS DEL CLIENTE\nNOMBRE DEL CLIENTE\nDATOS DEL EQUIPO\nIMEI ID DEL DISPOSITIVO\nMARCA Y MODELO VARIANTE\nXIAOMI REDMI A7 NUEVO CLIENTE\nALMACENAMIENTO MEMORIA\n64 GB 3 GB\n1 / 4\n\nDATOS DEL FINANCIAMIENTO\nSEMANAS PLAN\n43 NUEVO\nPRECIO DE CONTADO PRECIO FINAL\n$ 3,999.00 $ 8,159.00\nINTERÉS ANTICIPO\n230.0% $ 799.00\nSUBTOTAL PAGO SEMANAL\n$ 7,360.00 $ 171.16\nConcepto Fecha de pago Monto del pago Saldo pendiente\nAnticipo 2026-09-04 $ 799.00 $ 8,159.00\nSubtotal 2026-09-04 $ 0.00 $ 7,360.00\nPago 1 de 43 2026-09-11 $ 171.16 $ 7,188.84\nPago 2 de 43 2026-09-18 $ 171.16 $ 7,017.68\nPago 3 de 43 2026-09-25 $ 171.16 $ 6,846.52\nPago 4 de 43 2026-10-02 $ 171.16 $ 6,675.36\nPago 5 de 43 2026-10-09 $ 171.16 $ 6,504.20\nPago 6 de 43 2026-10-16 $ 171.16 $ 6,333.04"
+    },
+    {
+        "id": "contrato-1030-0002",
+        "contrato": "1030",
+        "tipo": "contrato",
+        "archivo": "1030.txt",
+        "chunk": 2,
+        "texto": "171.16 $ 6,846.52\nPago 4 de 43 2026-10-02 $ 171.16 $ 6,675.36\nPago 5 de 43 2026-10-09 $ 171.16 $ 6,504.20\nPago 6 de 43 2026-10-16 $ 171.16 $ 6,333.04\nPago 7 de 43 2026-10-23 $ 171.16 $ 6,161.88\nPago 8 de 43 2026-10-30 $ 171.16 $ 5,990.72\nPago 9 de 43 2026-11-06 $ 171.16 $ 5,819.56\nPago 10 de 43 2026-11-13 $ 171.16 $ 5,648.40\nPago 11 de 43 2026-11-20 $ 171.16 $ 5,477.24\nPago 12 de 43 2026-11-27 $ 171.16 $ 5,306.08\nPago 13 de 43 2026-12-04 $ 171.16 $ 5,134.92\nPago 14 de 43 2026-12-11 $ 171.16 $ 4,963.76\nPago 15 de 43 2026-12-18 $ 171.16 $ 4,792.60\nPago 16 de 43 2026-12-25 $ 171.16 $ 4,621.44\nPago 17 de 43 2027-01-01 $ 171.16 $ 4,450.28\nPago 18 de 43 2027-01-08 $ 171.16 $ 4,279.12\nPago 19 de 43 2027-01-15 $ 171.16 $ 4,107.96\nPago 20 de 43 2027-01-22 $ 171.16 $ 3,936.80\nPago 21 de 43 2027-01-"
+    },
+    {
+        "id": "contrato-1030-0003",
+        "contrato": "1030",
+        "tipo": "contrato",
+        "archivo": "1030.txt",
+        "chunk": 3,
+        "texto": "de 43 2027-01-08 $ 171.16 $ 4,279.12\nPago 19 de 43 2027-01-15 $ 171.16 $ 4,107.96\nPago 20 de 43 2027-01-22 $ 171.16 $ 3,936.80\nPago 21 de 43 2027-01-29 $ 171.16 $ 3,765.64\nPago 22 de 43 2027-02-05 $ 171.16 $ 3,594.48\nPago 23 de 43 2027-02-12 $ 171.16 $ 3,423.32\nPago 24 de 43 2027-02-19 $ 171.16 $ 3,252.16\nPago 25 de 43 2027-02-26 $ 171.16 $ 3,081.00\nPago 26 de 43 2027-03-05 $ 171.16 $ 2,909.84\n2 / 4\n\nConcepto Fecha de pago Monto del pago Saldo pendiente\nPago 27 de 43 2027-03-12 $ 171.16 $ 2,738.68\nPago 28 de 43 2027-03-19 $ 171.16 $ 2,567.52\nPago 29 de 43 2027-03-26 $ 171.16 $ 2,396.36\nPago 30 de 43 2027-04-02 $ 171.16 $ 2,225.20\nPago 31 de 43 2027-04-09 $ 171.16 $ 2,054.04\nPago 32 de 43 2027-04-16 $ 171.16 $ 1,882.88\nPago 33 de 43 2027-04-23 $ 171.16 $ 1,711.72\nPago 34 de 43 2027-04-30 $"
+    },
+    {
+        "id": "contrato-1030-0004",
+        "contrato": "1030",
+        "tipo": "contrato",
+        "archivo": "1030.txt",
+        "chunk": 4,
+        "texto": "43 2027-04-09 $ 171.16 $ 2,054.04\nPago 32 de 43 2027-04-16 $ 171.16 $ 1,882.88\nPago 33 de 43 2027-04-23 $ 171.16 $ 1,711.72\nPago 34 de 43 2027-04-30 $ 171.16 $ 1,540.56\nPago 35 de 43 2027-05-07 $ 171.16 $ 1,369.40\nPago 36 de 43 2027-05-14 $ 171.16 $ 1,198.24\nPago 37 de 43 2027-05-21 $ 171.16 $ 1,027.08\nPago 38 de 43 2027-05-28 $ 171.16 $ 855.92\nPago 39 de 43 2027-06-04 $ 171.16 $ 684.76\nPago 40 de 43 2027-06-11 $ 171.16 $ 513.60\nPago 41 de 43 2027-06-18 $ 171.16 $ 342.44\nPago 42 de 43 2027-06-25 $ 171.16 $ 171.28\nPago 43 de 43 2027-07-02 $ 171.28 $ 0.00\n3 / 4\n\nTérminos y condiciones\n4 / 4"
+    },
+    {
+        "id": "contrato-1031-0001",
+        "contrato": "1031",
+        "tipo": "contrato",
+        "archivo": "1031.txt",
+        "chunk": 1,
+        "texto": "CONTRATO\nFOLIO\n001031\nDATOS DEL VENDEDOR\nNOMBRE SUCURSAL\nDATOS DEL CLIENTE\nNOMBRE DEL CLIENTE\nDATOS DEL EQUIPO\nIMEI ID DEL DISPOSITIVO\nMARCA Y MODELO VARIANTE\nXIAOMI REDMI A7 NUEVO CLIENTE\nALMACENAMIENTO MEMORIA\n64 GB 3 GB\n1 / 4\n\nDATOS DEL FINANCIAMIENTO\nSEMANAS PLAN\n43 NUEVO\nPRECIO DE CONTADO PRECIO FINAL\n$ 3,999.00 $ 8,159.00\nINTERÉS ANTICIPO\n230.0% $ 799.00\nSUBTOTAL PAGO SEMANAL\n$ 7,360.00 $ 171.16\nConcepto Fecha de pago Monto del pago Saldo pendiente\nAnticipo 2026-09-05 $ 799.00 $ 8,159.00\nSubtotal 2026-09-05 $ 0.00 $ 7,360.00\nPago 1 de 43 2026-09-12 $ 171.16 $ 7,188.84\nPago 2 de 43 2026-09-19 $ 171.16 $ 7,017.68\nPago 3 de 43 2026-09-26 $ 171.16 $ 6,846.52\nPago 4 de 43 2026-10-03 $ 171.16 $ 6,675.36\nPago 5 de 43 2026-10-10 $ 171.16 $ 6,504.20\nPago 6 de 43 2026-10-17 $ 171.16 $ 6,333.04"
+    },
+    {
+        "id": "contrato-1031-0002",
+        "contrato": "1031",
+        "tipo": "contrato",
+        "archivo": "1031.txt",
+        "chunk": 2,
+        "texto": "171.16 $ 6,846.52\nPago 4 de 43 2026-10-03 $ 171.16 $ 6,675.36\nPago 5 de 43 2026-10-10 $ 171.16 $ 6,504.20\nPago 6 de 43 2026-10-17 $ 171.16 $ 6,333.04\nPago 7 de 43 2026-10-24 $ 171.16 $ 6,161.88\nPago 8 de 43 2026-10-31 $ 171.16 $ 5,990.72\nPago 9 de 43 2026-11-07 $ 171.16 $ 5,819.56\nPago 10 de 43 2026-11-14 $ 171.16 $ 5,648.40\nPago 11 de 43 2026-11-21 $ 171.16 $ 5,477.24\nPago 12 de 43 2026-11-28 $ 171.16 $ 5,306.08\nPago 13 de 43 2026-12-05 $ 171.16 $ 5,134.92\nPago 14 de 43 2026-12-12 $ 171.16 $ 4,963.76\nPago 15 de 43 2026-12-19 $ 171.16 $ 4,792.60\nPago 16 de 43 2026-12-26 $ 171.16 $ 4,621.44\nPago 17 de 43 2027-01-02 $ 171.16 $ 4,450.28\nPago 18 de 43 2027-01-09 $ 171.16 $ 4,279.12\nPago 19 de 43 2027-01-16 $ 171.16 $ 4,107.96\nPago 20 de 43 2027-01-23 $ 171.16 $ 3,936.80\nPago 21 de 43 2027-01-"
+    },
+    {
+        "id": "contrato-1031-0003",
+        "contrato": "1031",
+        "tipo": "contrato",
+        "archivo": "1031.txt",
+        "chunk": 3,
+        "texto": "de 43 2027-01-09 $ 171.16 $ 4,279.12\nPago 19 de 43 2027-01-16 $ 171.16 $ 4,107.96\nPago 20 de 43 2027-01-23 $ 171.16 $ 3,936.80\nPago 21 de 43 2027-01-30 $ 171.16 $ 3,765.64\nPago 22 de 43 2027-02-06 $ 171.16 $ 3,594.48\nPago 23 de 43 2027-02-13 $ 171.16 $ 3,423.32\nPago 24 de 43 2027-02-20 $ 171.16 $ 3,252.16\nPago 25 de 43 2027-02-27 $ 171.16 $ 3,081.00\nPago 26 de 43 2027-03-06 $ 171.16 $ 2,909.84\n2 / 4\n\nConcepto Fecha de pago Monto del pago Saldo pendiente\nPago 27 de 43 2027-03-13 $ 171.16 $ 2,738.68\nPago 28 de 43 2027-03-20 $ 171.16 $ 2,567.52\nPago 29 de 43 2027-03-27 $ 171.16 $ 2,396.36\nPago 30 de 43 2027-04-03 $ 171.16 $ 2,225.20\nPago 31 de 43 2027-04-10 $ 171.16 $ 2,054.04\nPago 32 de 43 2027-04-17 $ 171.16 $ 1,882.88\nPago 33 de 43 2027-04-24 $ 171.16 $ 1,711.72\nPago 34 de 43 2027-05-01 $"
+    },
+    {
+        "id": "contrato-1031-0004",
+        "contrato": "1031",
+        "tipo": "contrato",
+        "archivo": "1031.txt",
+        "chunk": 4,
+        "texto": "43 2027-04-10 $ 171.16 $ 2,054.04\nPago 32 de 43 2027-04-17 $ 171.16 $ 1,882.88\nPago 33 de 43 2027-04-24 $ 171.16 $ 1,711.72\nPago 34 de 43 2027-05-01 $ 171.16 $ 1,540.56\nPago 35 de 43 2027-05-08 $ 171.16 $ 1,369.40\nPago 36 de 43 2027-05-15 $ 171.16 $ 1,198.24\nPago 37 de 43 2027-05-22 $ 171.16 $ 1,027.08\nPago 38 de 43 2027-05-29 $ 171.16 $ 855.92\nPago 39 de 43 2027-06-05 $ 171.16 $ 684.76\nPago 40 de 43 2027-06-12 $ 171.16 $ 513.60\nPago 41 de 43 2027-06-19 $ 171.16 $ 342.44\nPago 42 de 43 2027-06-26 $ 171.16 $ 171.28\nPago 43 de 43 2027-07-03 $ 171.28 $ 0.00\n3 / 4\n\nTérminos y condiciones\n4 / 4"
+    },
+    {
+        "id": "contrato-1036-0001",
+        "contrato": "1036",
+        "tipo": "contrato",
+        "archivo": "1036.txt",
+        "chunk": 1,
+        "texto": "CONTRATO\nFOLIO\n001036\nDATOS DEL VENDEDOR\nNOMBRE SUCURSAL\nDATOS DEL CLIENTE\nNOMBRE DEL CLIENTE\nDATOS DEL EQUIPO\nIMEI ID DEL DISPOSITIVO\nMARCA Y MODELO VARIANTE\nINFINIX HOT 70 FREE FIRE RECOMPRA\nALMACENAMIENTO MEMORIA\n256 GB 4 + 4 GB\n1 / 4\n\nDATOS DEL FINANCIAMIENTO\nSEMANAS PLAN\n43 RENOVACIÓN\nPRECIO DE CONTADO PRECIO FINAL\n$ 5,999.00 $ 10,198.30\nINTERÉS ANTICIPO\n170.0% $ 0.00\nSUBTOTAL PAGO SEMANAL\n$ 10,198.30 $ 237.17\nConcepto Fecha de pago Monto del pago Saldo pendiente\nAnticipo 2026-09-06 $ 0.00 $ 10,198.30\nSubtotal 2026-09-06 $ 0.00 $ 10,198.30\nPago 1 de 43 2026-09-13 $ 237.17 $ 9,961.13\nPago 2 de 43 2026-09-20 $ 237.17 $ 9,723.96\nPago 3 de 43 2026-09-27 $ 237.17 $ 9,486.79\nPago 4 de 43 2026-10-04 $ 237.17 $ 9,249.62\nPago 5 de 43 2026-10-11 $ 237.17 $ 9,012.45\nPago 6 de 43 2026-10-18 $ 237"
+    },
+    {
+        "id": "contrato-1036-0002",
+        "contrato": "1036",
+        "tipo": "contrato",
+        "archivo": "1036.txt",
+        "chunk": 2,
+        "texto": "3 2026-09-27 $ 237.17 $ 9,486.79\nPago 4 de 43 2026-10-04 $ 237.17 $ 9,249.62\nPago 5 de 43 2026-10-11 $ 237.17 $ 9,012.45\nPago 6 de 43 2026-10-18 $ 237.17 $ 8,775.28\nPago 7 de 43 2026-10-25 $ 237.17 $ 8,538.11\nPago 8 de 43 2026-11-01 $ 237.17 $ 8,300.94\nPago 9 de 43 2026-11-08 $ 237.17 $ 8,063.77\nPago 10 de 43 2026-11-15 $ 237.17 $ 7,826.60\nPago 11 de 43 2026-11-22 $ 237.17 $ 7,589.43\nPago 12 de 43 2026-11-29 $ 237.17 $ 7,352.26\nPago 13 de 43 2026-12-06 $ 237.17 $ 7,115.09\nPago 14 de 43 2026-12-13 $ 237.17 $ 6,877.92\nPago 15 de 43 2026-12-20 $ 237.17 $ 6,640.75\nPago 16 de 43 2026-12-27 $ 237.17 $ 6,403.58\nPago 17 de 43 2027-01-03 $ 237.17 $ 6,166.41\nPago 18 de 43 2027-01-10 $ 237.17 $ 5,929.24\nPago 19 de 43 2027-01-17 $ 237.17 $ 5,692.07\nPago 20 de 43 2027-01-24 $ 237.17 $ 5,454.90\nPago 21"
+    },
+    {
+        "id": "contrato-1036-0003",
+        "contrato": "1036",
+        "tipo": "contrato",
+        "archivo": "1036.txt",
+        "chunk": 3,
+        "texto": "166.41\nPago 18 de 43 2027-01-10 $ 237.17 $ 5,929.24\nPago 19 de 43 2027-01-17 $ 237.17 $ 5,692.07\nPago 20 de 43 2027-01-24 $ 237.17 $ 5,454.90\nPago 21 de 43 2027-01-31 $ 237.17 $ 5,217.73\nPago 22 de 43 2027-02-07 $ 237.17 $ 4,980.56\nPago 23 de 43 2027-02-14 $ 237.17 $ 4,743.39\nPago 24 de 43 2027-02-21 $ 237.17 $ 4,506.22\nPago 25 de 43 2027-02-28 $ 237.17 $ 4,269.05\nPago 26 de 43 2027-03-07 $ 237.17 $ 4,031.88\n2 / 4\n\nConcepto Fecha de pago Monto del pago Saldo pendiente\nPago 27 de 43 2027-03-14 $ 237.17 $ 3,794.71\nPago 28 de 43 2027-03-21 $ 237.17 $ 3,557.54\nPago 29 de 43 2027-03-28 $ 237.17 $ 3,320.37\nPago 30 de 43 2027-04-04 $ 237.17 $ 3,083.20\nPago 31 de 43 2027-04-11 $ 237.17 $ 2,846.03\nPago 32 de 43 2027-04-18 $ 237.17 $ 2,608.86\nPago 33 de 43 2027-04-25 $ 237.17 $ 2,371.69\nPago 34 de 4"
+    },
+    {
+        "id": "contrato-1036-0004",
+        "contrato": "1036",
+        "tipo": "contrato",
+        "archivo": "1036.txt",
+        "chunk": 4,
+        "texto": "20\nPago 31 de 43 2027-04-11 $ 237.17 $ 2,846.03\nPago 32 de 43 2027-04-18 $ 237.17 $ 2,608.86\nPago 33 de 43 2027-04-25 $ 237.17 $ 2,371.69\nPago 34 de 43 2027-05-02 $ 237.17 $ 2,134.52\nPago 35 de 43 2027-05-09 $ 237.17 $ 1,897.35\nPago 36 de 43 2027-05-16 $ 237.17 $ 1,660.18\nPago 37 de 43 2027-05-23 $ 237.17 $ 1,423.01\nPago 38 de 43 2027-05-30 $ 237.17 $ 1,185.84\nPago 39 de 43 2027-06-06 $ 237.17 $ 948.67\nPago 40 de 43 2027-06-13 $ 237.17 $ 711.50\nPago 41 de 43 2027-06-20 $ 237.17 $ 474.33\nPago 42 de 43 2027-06-27 $ 237.17 $ 237.16\nPago 43 de 43 2027-07-04 $ 237.16 $ 0.00\n3 / 4\n\nTérminos y condiciones\n4 / 4"
+    },
+    {
+        "id": "contrato-1039-0001",
+        "contrato": "1039",
+        "tipo": "contrato",
+        "archivo": "1039.txt",
+        "chunk": 1,
+        "texto": "CONTRATO\nFOLIO\n001039\nDATOS DEL VENDEDOR\nNOMBRE SUCURSAL\nDATOS DEL CLIENTE\nNOMBRE DEL CLIENTE\nDATOS DEL EQUIPO\nIMEI ID DEL DISPOSITIVO\nMARCA Y MODELO VARIANTE\nMOTOROLA G86 MOTO WATCH ENGANCHE CERO\nALMACENAMIENTO MEMORIA\n512 GB 8 GB\n1 / 4\n\nDATOS DEL FINANCIAMIENTO\nSEMANAS PLAN\n43 RENOVACIÓN\nPRECIO DE CONTADO PRECIO FINAL\n$ 7,999.00 $ 13,598.30\nINTERÉS ANTICIPO\n170.0% $ 0.00\nSUBTOTAL PAGO SEMANAL\n$ 13,598.30 $ 316.24\nConcepto Fecha de pago Monto del pago Saldo pendiente\nAnticipo 2026-09-06 $ 0.00 $ 13,598.30\nSubtotal 2026-09-06 $ 0.00 $ 13,598.30\nPago 1 de 43 2026-09-13 $ 316.24 $ 13,282.06\nPago 2 de 43 2026-09-20 $ 316.24 $ 12,965.82\nPago 3 de 43 2026-09-27 $ 316.24 $ 12,649.58\nPago 4 de 43 2026-10-04 $ 316.24 $ 12,333.34\nPago 5 de 43 2026-10-11 $ 316.24 $ 12,017.10\nPago 6 de 43 2026-10-18"
+    },
+    {
+        "id": "contrato-1039-0002",
+        "contrato": "1039",
+        "tipo": "contrato",
+        "archivo": "1039.txt",
+        "chunk": 2,
+        "texto": "43 2026-09-27 $ 316.24 $ 12,649.58\nPago 4 de 43 2026-10-04 $ 316.24 $ 12,333.34\nPago 5 de 43 2026-10-11 $ 316.24 $ 12,017.10\nPago 6 de 43 2026-10-18 $ 316.24 $ 11,700.86\nPago 7 de 43 2026-10-25 $ 316.24 $ 11,384.62\nPago 8 de 43 2026-11-01 $ 316.24 $ 11,068.38\nPago 9 de 43 2026-11-08 $ 316.24 $ 10,752.14\nPago 10 de 43 2026-11-15 $ 316.24 $ 10,435.90\nPago 11 de 43 2026-11-22 $ 316.24 $ 10,119.66\nPago 12 de 43 2026-11-29 $ 316.24 $ 9,803.42\nPago 13 de 43 2026-12-06 $ 316.24 $ 9,487.18\nPago 14 de 43 2026-12-13 $ 316.24 $ 9,170.94\nPago 15 de 43 2026-12-20 $ 316.24 $ 8,854.70\nPago 16 de 43 2026-12-27 $ 316.24 $ 8,538.46\nPago 17 de 43 2027-01-03 $ 316.24 $ 8,222.22\nPago 18 de 43 2027-01-10 $ 316.24 $ 7,905.98\nPago 19 de 43 2027-01-17 $ 316.24 $ 7,589.74\nPago 20 de 43 2027-01-24 $ 316.24 $ 7,273."
+    },
+    {
+        "id": "contrato-1039-0003",
+        "contrato": "1039",
+        "tipo": "contrato",
+        "archivo": "1039.txt",
+        "chunk": 3,
+        "texto": "316.24 $ 8,222.22\nPago 18 de 43 2027-01-10 $ 316.24 $ 7,905.98\nPago 19 de 43 2027-01-17 $ 316.24 $ 7,589.74\nPago 20 de 43 2027-01-24 $ 316.24 $ 7,273.50\nPago 21 de 43 2027-01-31 $ 316.24 $ 6,957.26\nPago 22 de 43 2027-02-07 $ 316.24 $ 6,641.02\nPago 23 de 43 2027-02-14 $ 316.24 $ 6,324.78\nPago 24 de 43 2027-02-21 $ 316.24 $ 6,008.54\nPago 25 de 43 2027-02-28 $ 316.24 $ 5,692.30\nPago 26 de 43 2027-03-07 $ 316.24 $ 5,376.06\n2 / 4\n\nConcepto Fecha de pago Monto del pago Saldo pendiente\nPago 27 de 43 2027-03-14 $ 316.24 $ 5,059.82\nPago 28 de 43 2027-03-21 $ 316.24 $ 4,743.58\nPago 29 de 43 2027-03-28 $ 316.24 $ 4,427.34\nPago 30 de 43 2027-04-04 $ 316.24 $ 4,111.10\nPago 31 de 43 2027-04-11 $ 316.24 $ 3,794.86\nPago 32 de 43 2027-04-18 $ 316.24 $ 3,478.62\nPago 33 de 43 2027-04-25 $ 316.24 $ 3,162.38\nP"
+    },
+    {
+        "id": "contrato-1039-0004",
+        "contrato": "1039",
+        "tipo": "contrato",
+        "archivo": "1039.txt",
+        "chunk": 4,
+        "texto": "24 $ 4,111.10\nPago 31 de 43 2027-04-11 $ 316.24 $ 3,794.86\nPago 32 de 43 2027-04-18 $ 316.24 $ 3,478.62\nPago 33 de 43 2027-04-25 $ 316.24 $ 3,162.38\nPago 34 de 43 2027-05-02 $ 316.24 $ 2,846.14\nPago 35 de 43 2027-05-09 $ 316.24 $ 2,529.90\nPago 36 de 43 2027-05-16 $ 316.24 $ 2,213.66\nPago 37 de 43 2027-05-23 $ 316.24 $ 1,897.42\nPago 38 de 43 2027-05-30 $ 316.24 $ 1,581.18\nPago 39 de 43 2027-06-06 $ 316.24 $ 1,264.94\nPago 40 de 43 2027-06-13 $ 316.24 $ 948.70\nPago 41 de 43 2027-06-20 $ 316.24 $ 632.46\nPago 42 de 43 2027-06-27 $ 316.24 $ 316.22\nPago 43 de 43 2027-07-04 $ 316.22 $ 0.00\n3 / 4\n\nTérminos y condiciones\n4 / 4"
+    },
+    {
+        "id": "contrato-1045-0001",
+        "contrato": "1045",
+        "tipo": "contrato",
+        "archivo": "1045.txt",
+        "chunk": 1,
+        "texto": "CONTRATO\nFOLIO\n001045\nDATOS DEL VENDEDOR\nNOMBRE SUCURSAL\nDATOS DEL CLIENTE\nNOMBRE DEL CLIENTE\nDATOS DEL EQUIPO\nIMEI ID DEL DISPOSITIVO\nMARCA Y MODELO VARIANTE\nXIAOMI REDMI A7 NUEVO CLIENTE\nALMACENAMIENTO MEMORIA\n64 GB 3 GB\n1 / 4\n\nDATOS DEL FINANCIAMIENTO\nSEMANAS PLAN\n43 NUEVO\nPRECIO DE CONTADO PRECIO FINAL\n$ 3,999.00 $ 8,159.00\nINTERÉS ANTICIPO\n230.0% $ 799.00\nSUBTOTAL PAGO SEMANAL\n$ 7,360.00 $ 171.16\nConcepto Fecha de pago Monto del pago Saldo pendiente\nAnticipo 2026-09-07 $ 799.00 $ 8,159.00\nSubtotal 2026-09-07 $ 0.00 $ 7,360.00\nPago 1 de 43 2026-09-14 $ 171.16 $ 7,188.84\nPago 2 de 43 2026-09-21 $ 171.16 $ 7,017.68\nPago 3 de 43 2026-09-28 $ 171.16 $ 6,846.52\nPago 4 de 43 2026-10-05 $ 171.16 $ 6,675.36\nPago 5 de 43 2026-10-12 $ 171.16 $ 6,504.20\nPago 6 de 43 2026-10-19 $ 171.16 $ 6,333.04"
+    },
+    {
+        "id": "contrato-1045-0002",
+        "contrato": "1045",
+        "tipo": "contrato",
+        "archivo": "1045.txt",
+        "chunk": 2,
+        "texto": "171.16 $ 6,846.52\nPago 4 de 43 2026-10-05 $ 171.16 $ 6,675.36\nPago 5 de 43 2026-10-12 $ 171.16 $ 6,504.20\nPago 6 de 43 2026-10-19 $ 171.16 $ 6,333.04\nPago 7 de 43 2026-10-26 $ 171.16 $ 6,161.88\nPago 8 de 43 2026-11-02 $ 171.16 $ 5,990.72\nPago 9 de 43 2026-11-09 $ 171.16 $ 5,819.56\nPago 10 de 43 2026-11-16 $ 171.16 $ 5,648.40\nPago 11 de 43 2026-11-23 $ 171.16 $ 5,477.24\nPago 12 de 43 2026-11-30 $ 171.16 $ 5,306.08\nPago 13 de 43 2026-12-07 $ 171.16 $ 5,134.92\nPago 14 de 43 2026-12-14 $ 171.16 $ 4,963.76\nPago 15 de 43 2026-12-21 $ 171.16 $ 4,792.60\nPago 16 de 43 2026-12-28 $ 171.16 $ 4,621.44\nPago 17 de 43 2027-01-04 $ 171.16 $ 4,450.28\nPago 18 de 43 2027-01-11 $ 171.16 $ 4,279.12\nPago 19 de 43 2027-01-18 $ 171.16 $ 4,107.96\nPago 20 de 43 2027-01-25 $ 171.16 $ 3,936.80\nPago 21 de 43 2027-02-"
+    },
+    {
+        "id": "contrato-1045-0003",
+        "contrato": "1045",
+        "tipo": "contrato",
+        "archivo": "1045.txt",
+        "chunk": 3,
+        "texto": "de 43 2027-01-11 $ 171.16 $ 4,279.12\nPago 19 de 43 2027-01-18 $ 171.16 $ 4,107.96\nPago 20 de 43 2027-01-25 $ 171.16 $ 3,936.80\nPago 21 de 43 2027-02-01 $ 171.16 $ 3,765.64\nPago 22 de 43 2027-02-08 $ 171.16 $ 3,594.48\nPago 23 de 43 2027-02-15 $ 171.16 $ 3,423.32\nPago 24 de 43 2027-02-22 $ 171.16 $ 3,252.16\nPago 25 de 43 2027-03-01 $ 171.16 $ 3,081.00\nPago 26 de 43 2027-03-08 $ 171.16 $ 2,909.84\n2 / 4\n\nConcepto Fecha de pago Monto del pago Saldo pendiente\nPago 27 de 43 2027-03-15 $ 171.16 $ 2,738.68\nPago 28 de 43 2027-03-22 $ 171.16 $ 2,567.52\nPago 29 de 43 2027-03-29 $ 171.16 $ 2,396.36\nPago 30 de 43 2027-04-05 $ 171.16 $ 2,225.20\nPago 31 de 43 2027-04-12 $ 171.16 $ 2,054.04\nPago 32 de 43 2027-04-19 $ 171.16 $ 1,882.88\nPago 33 de 43 2027-04-26 $ 171.16 $ 1,711.72\nPago 34 de 43 2027-05-03 $"
+    },
+    {
+        "id": "contrato-1045-0004",
+        "contrato": "1045",
+        "tipo": "contrato",
+        "archivo": "1045.txt",
+        "chunk": 4,
+        "texto": "43 2027-04-12 $ 171.16 $ 2,054.04\nPago 32 de 43 2027-04-19 $ 171.16 $ 1,882.88\nPago 33 de 43 2027-04-26 $ 171.16 $ 1,711.72\nPago 34 de 43 2027-05-03 $ 171.16 $ 1,540.56\nPago 35 de 43 2027-05-10 $ 171.16 $ 1,369.40\nPago 36 de 43 2027-05-17 $ 171.16 $ 1,198.24\nPago 37 de 43 2027-05-24 $ 171.16 $ 1,027.08\nPago 38 de 43 2027-05-31 $ 171.16 $ 855.92\nPago 39 de 43 2027-06-07 $ 171.16 $ 684.76\nPago 40 de 43 2027-06-14 $ 171.16 $ 513.60\nPago 41 de 43 2027-06-21 $ 171.16 $ 342.44\nPago 42 de 43 2027-06-28 $ 171.16 $ 171.28\nPago 43 de 43 2027-07-05 $ 171.28 $ 0.00\n3 / 4\n\nTérminos y condiciones\n4 / 4"
+    },
+    {
+        "id": "contrato-1048-0001",
+        "contrato": "1048",
+        "tipo": "contrato",
+        "archivo": "1048.txt",
+        "chunk": 1,
+        "texto": "CONTRATO\nFOLIO\n001048\nDATOS DEL VENDEDOR\nNOMBRE SUCURSAL\nDATOS DEL CLIENTE\nNOMBRE DEL CLIENTE\nDATOS DEL EQUIPO\nIMEI ID DEL DISPOSITIVO\nMARCA Y MODELO VARIANTE\nXIAOMI REDMI A7 PRO ACCESS RECOMPRA\nALMACENAMIENTO MEMORIA\n128 GB GB 4 GB GB\n1 / 4\n\nDATOS DEL FINANCIAMIENTO\nSEMANAS PLAN\n43 RENOVACIÓN\nPRECIO DE CONTADO PRECIO FINAL\n$ 5,199.00 $ 8,838.30\nINTERÉS ANTICIPO\n170.0% $ 0.00\nSUBTOTAL PAGO SEMANAL\n$ 8,838.30 $ 205.54\nConcepto Fecha de pago Monto del pago Saldo pendiente\nAnticipo 2026-09-07 $ 0.00 $ 8,838.30\nSubtotal 2026-09-07 $ 0.00 $ 8,838.30\nPago 1 de 43 2026-09-14 $ 205.54 $ 8,632.76\nPago 2 de 43 2026-09-21 $ 205.54 $ 8,427.22\nPago 3 de 43 2026-09-28 $ 205.54 $ 8,221.68\nPago 4 de 43 2026-10-05 $ 205.54 $ 8,016.14\nPago 5 de 43 2026-10-12 $ 205.54 $ 7,810.60\nPago 6 de 43 2026-10-19 $ 205"
+    },
+    {
+        "id": "contrato-1048-0002",
+        "contrato": "1048",
+        "tipo": "contrato",
+        "archivo": "1048.txt",
+        "chunk": 2,
+        "texto": "3 2026-09-28 $ 205.54 $ 8,221.68\nPago 4 de 43 2026-10-05 $ 205.54 $ 8,016.14\nPago 5 de 43 2026-10-12 $ 205.54 $ 7,810.60\nPago 6 de 43 2026-10-19 $ 205.54 $ 7,605.06\nPago 7 de 43 2026-10-26 $ 205.54 $ 7,399.52\nPago 8 de 43 2026-11-02 $ 205.54 $ 7,193.98\nPago 9 de 43 2026-11-09 $ 205.54 $ 6,988.44\nPago 10 de 43 2026-11-16 $ 205.54 $ 6,782.90\nPago 11 de 43 2026-11-23 $ 205.54 $ 6,577.36\nPago 12 de 43 2026-11-30 $ 205.54 $ 6,371.82\nPago 13 de 43 2026-12-07 $ 205.54 $ 6,166.28\nPago 14 de 43 2026-12-14 $ 205.54 $ 5,960.74\nPago 15 de 43 2026-12-21 $ 205.54 $ 5,755.20\nPago 16 de 43 2026-12-28 $ 205.54 $ 5,549.66\nPago 17 de 43 2027-01-04 $ 205.54 $ 5,344.12\nPago 18 de 43 2027-01-11 $ 205.54 $ 5,138.58\nPago 19 de 43 2027-01-18 $ 205.54 $ 4,933.04\nPago 20 de 43 2027-01-25 $ 205.54 $ 4,727.50\nPago 21"
+    },
+    {
+        "id": "contrato-1048-0003",
+        "contrato": "1048",
+        "tipo": "contrato",
+        "archivo": "1048.txt",
+        "chunk": 3,
+        "texto": "344.12\nPago 18 de 43 2027-01-11 $ 205.54 $ 5,138.58\nPago 19 de 43 2027-01-18 $ 205.54 $ 4,933.04\nPago 20 de 43 2027-01-25 $ 205.54 $ 4,727.50\nPago 21 de 43 2027-02-01 $ 205.54 $ 4,521.96\nPago 22 de 43 2027-02-08 $ 205.54 $ 4,316.42\nPago 23 de 43 2027-02-15 $ 205.54 $ 4,110.88\nPago 24 de 43 2027-02-22 $ 205.54 $ 3,905.34\nPago 25 de 43 2027-03-01 $ 205.54 $ 3,699.80\nPago 26 de 43 2027-03-08 $ 205.54 $ 3,494.26\n2 / 4\n\nConcepto Fecha de pago Monto del pago Saldo pendiente\nPago 27 de 43 2027-03-15 $ 205.54 $ 3,288.72\nPago 28 de 43 2027-03-22 $ 205.54 $ 3,083.18\nPago 29 de 43 2027-03-29 $ 205.54 $ 2,877.64\nPago 30 de 43 2027-04-05 $ 205.54 $ 2,672.10\nPago 31 de 43 2027-04-12 $ 205.54 $ 2,466.56\nPago 32 de 43 2027-04-19 $ 205.54 $ 2,261.02\nPago 33 de 43 2027-04-26 $ 205.54 $ 2,055.48\nPago 34 de 4"
+    },
+    {
+        "id": "contrato-1048-0004",
+        "contrato": "1048",
+        "tipo": "contrato",
+        "archivo": "1048.txt",
+        "chunk": 4,
+        "texto": "10\nPago 31 de 43 2027-04-12 $ 205.54 $ 2,466.56\nPago 32 de 43 2027-04-19 $ 205.54 $ 2,261.02\nPago 33 de 43 2027-04-26 $ 205.54 $ 2,055.48\nPago 34 de 43 2027-05-03 $ 205.54 $ 1,849.94\nPago 35 de 43 2027-05-10 $ 205.54 $ 1,644.40\nPago 36 de 43 2027-05-17 $ 205.54 $ 1,438.86\nPago 37 de 43 2027-05-24 $ 205.54 $ 1,233.32\nPago 38 de 43 2027-05-31 $ 205.54 $ 1,027.78\nPago 39 de 43 2027-06-07 $ 205.54 $ 822.24\nPago 40 de 43 2027-06-14 $ 205.54 $ 616.70\nPago 41 de 43 2027-06-21 $ 205.54 $ 411.16\nPago 42 de 43 2027-06-28 $ 205.54 $ 205.62\nPago 43 de 43 2027-07-05 $ 205.62 $ 0.00\n3 / 4\n\nTérminos y condiciones\n4 / 4"
+    },
+    {
+        "id": "contrato-1052-0001",
+        "contrato": "1052",
+        "tipo": "contrato",
+        "archivo": "1052.txt",
+        "chunk": 1,
+        "texto": "CONTRATO\nFOLIO\n001052\nDATOS DEL VENDEDOR\nNOMBRE SUCURSAL\nDATOS DEL CLIENTE\nNOMBRE DEL CLIENTE\nDATOS DEL EQUIPO\nIMEI ID DEL DISPOSITIVO\nMARCA Y MODELO VARIANTE\nXIAOMI REDMI A7 NUEVO CLIENTE\nALMACENAMIENTO MEMORIA\n64 GB 3 GB\n1 / 4\n\nDATOS DEL FINANCIAMIENTO\nSEMANAS PLAN\n43 NUEVO\nPRECIO DE CONTADO PRECIO FINAL\n$ 3,999.00 $ 8,159.00\nINTERÉS ANTICIPO\n230.0% $ 799.00\nSUBTOTAL PAGO SEMANAL\n$ 7,360.00 $ 171.16\nConcepto Fecha de pago Monto del pago Saldo pendiente\nAnticipo 2026-09-08 $ 799.00 $ 8,159.00\nSubtotal 2026-09-08 $ 0.00 $ 7,360.00\nPago 1 de 43 2026-09-15 $ 171.16 $ 7,188.84\nPago 2 de 43 2026-09-22 $ 171.16 $ 7,017.68\nPago 3 de 43 2026-09-29 $ 171.16 $ 6,846.52\nPago 4 de 43 2026-10-06 $ 171.16 $ 6,675.36\nPago 5 de 43 2026-10-13 $ 171.16 $ 6,504.20\nPago 6 de 43 2026-10-20 $ 171.16 $ 6,333.04"
+    },
+    {
+        "id": "contrato-1052-0002",
+        "contrato": "1052",
+        "tipo": "contrato",
+        "archivo": "1052.txt",
+        "chunk": 2,
+        "texto": "171.16 $ 6,846.52\nPago 4 de 43 2026-10-06 $ 171.16 $ 6,675.36\nPago 5 de 43 2026-10-13 $ 171.16 $ 6,504.20\nPago 6 de 43 2026-10-20 $ 171.16 $ 6,333.04\nPago 7 de 43 2026-10-27 $ 171.16 $ 6,161.88\nPago 8 de 43 2026-11-03 $ 171.16 $ 5,990.72\nPago 9 de 43 2026-11-10 $ 171.16 $ 5,819.56\nPago 10 de 43 2026-11-17 $ 171.16 $ 5,648.40\nPago 11 de 43 2026-11-24 $ 171.16 $ 5,477.24\nPago 12 de 43 2026-12-01 $ 171.16 $ 5,306.08\nPago 13 de 43 2026-12-08 $ 171.16 $ 5,134.92\nPago 14 de 43 2026-12-15 $ 171.16 $ 4,963.76\nPago 15 de 43 2026-12-22 $ 171.16 $ 4,792.60\nPago 16 de 43 2026-12-29 $ 171.16 $ 4,621.44\nPago 17 de 43 2027-01-05 $ 171.16 $ 4,450.28\nPago 18 de 43 2027-01-12 $ 171.16 $ 4,279.12\nPago 19 de 43 2027-01-19 $ 171.16 $ 4,107.96\nPago 20 de 43 2027-01-26 $ 171.16 $ 3,936.80\nPago 21 de 43 2027-02-"
+    },
+    {
+        "id": "contrato-1052-0003",
+        "contrato": "1052",
+        "tipo": "contrato",
+        "archivo": "1052.txt",
+        "chunk": 3,
+        "texto": "de 43 2027-01-12 $ 171.16 $ 4,279.12\nPago 19 de 43 2027-01-19 $ 171.16 $ 4,107.96\nPago 20 de 43 2027-01-26 $ 171.16 $ 3,936.80\nPago 21 de 43 2027-02-02 $ 171.16 $ 3,765.64\nPago 22 de 43 2027-02-09 $ 171.16 $ 3,594.48\nPago 23 de 43 2027-02-16 $ 171.16 $ 3,423.32\nPago 24 de 43 2027-02-23 $ 171.16 $ 3,252.16\nPago 25 de 43 2027-03-02 $ 171.16 $ 3,081.00\nPago 26 de 43 2027-03-09 $ 171.16 $ 2,909.84\n2 / 4\n\nConcepto Fecha de pago Monto del pago Saldo pendiente\nPago 27 de 43 2027-03-16 $ 171.16 $ 2,738.68\nPago 28 de 43 2027-03-23 $ 171.16 $ 2,567.52\nPago 29 de 43 2027-03-30 $ 171.16 $ 2,396.36\nPago 30 de 43 2027-04-06 $ 171.16 $ 2,225.20\nPago 31 de 43 2027-04-13 $ 171.16 $ 2,054.04\nPago 32 de 43 2027-04-20 $ 171.16 $ 1,882.88\nPago 33 de 43 2027-04-27 $ 171.16 $ 1,711.72\nPago 34 de 43 2027-05-04 $"
+    },
+    {
+        "id": "contrato-1052-0004",
+        "contrato": "1052",
+        "tipo": "contrato",
+        "archivo": "1052.txt",
+        "chunk": 4,
+        "texto": "43 2027-04-13 $ 171.16 $ 2,054.04\nPago 32 de 43 2027-04-20 $ 171.16 $ 1,882.88\nPago 33 de 43 2027-04-27 $ 171.16 $ 1,711.72\nPago 34 de 43 2027-05-04 $ 171.16 $ 1,540.56\nPago 35 de 43 2027-05-11 $ 171.16 $ 1,369.40\nPago 36 de 43 2027-05-18 $ 171.16 $ 1,198.24\nPago 37 de 43 2027-05-25 $ 171.16 $ 1,027.08\nPago 38 de 43 2027-06-01 $ 171.16 $ 855.92\nPago 39 de 43 2027-06-08 $ 171.16 $ 684.76\nPago 40 de 43 2027-06-15 $ 171.16 $ 513.60\nPago 41 de 43 2027-06-22 $ 171.16 $ 342.44\nPago 42 de 43 2027-06-29 $ 171.16 $ 171.28\nPago 43 de 43 2027-07-06 $ 171.28 $ 0.00\n3 / 4\n\nTérminos y condiciones\n4 / 4"
+    },
+    {
+        "id": "contrato-1056-0001",
+        "contrato": "1056",
+        "tipo": "contrato",
+        "archivo": "1056.txt",
+        "chunk": 1,
+        "texto": "CONTRATO\nFOLIO\n001056\nDATOS DEL VENDEDOR\nNOMBRE SUCURSAL\nDATOS DEL CLIENTE\nNOMBRE DEL CLIENTE\nDATOS DEL EQUIPO\nIMEI ID DEL DISPOSITIVO\nMARCA Y MODELO VARIANTE\nXIAOMI REDMI A7 NUEVO CLIENTE\nALMACENAMIENTO MEMORIA\n64 GB 3 GB\n1 / 3\n\nDATOS DEL FINANCIAMIENTO\nSEMANAS PLAN\n15 NUEVO\nPRECIO DE CONTADO PRECIO FINAL\n$ 3,999.00 $ 5,599.00\nINTERÉS ANTICIPO\n150.0% $ 799.00\nSUBTOTAL PAGO SEMANAL\n$ 4,800.00 $ 320.00\nConcepto Fecha de pago Monto del pago Saldo pendiente\nAnticipo 2026-09-10 $ 799.00 $ 5,599.00\nSubtotal 2026-09-10 $ 0.00 $ 4,800.00\nPago 1 de 15 2026-09-17 $ 320.00 $ 4,480.00\nPago 2 de 15 2026-09-24 $ 320.00 $ 4,160.00\nPago 3 de 15 2026-10-01 $ 320.00 $ 3,840.00\nPago 4 de 15 2026-10-08 $ 320.00 $ 3,520.00\nPago 5 de 15 2026-10-15 $ 320.00 $ 3,200.00\nPago 6 de 15 2026-10-22 $ 320.00 $ 2,880.00"
+    },
+    {
+        "id": "contrato-1056-0002",
+        "contrato": "1056",
+        "tipo": "contrato",
+        "archivo": "1056.txt",
+        "chunk": 2,
+        "texto": "320.00 $ 3,840.00\nPago 4 de 15 2026-10-08 $ 320.00 $ 3,520.00\nPago 5 de 15 2026-10-15 $ 320.00 $ 3,200.00\nPago 6 de 15 2026-10-22 $ 320.00 $ 2,880.00\nPago 7 de 15 2026-10-29 $ 320.00 $ 2,560.00\nPago 8 de 15 2026-11-05 $ 320.00 $ 2,240.00\nPago 9 de 15 2026-11-12 $ 320.00 $ 1,920.00\nPago 10 de 15 2026-11-19 $ 320.00 $ 1,600.00\nPago 11 de 15 2026-11-26 $ 320.00 $ 1,280.00\nPago 12 de 15 2026-12-03 $ 320.00 $ 960.00\nPago 13 de 15 2026-12-10 $ 320.00 $ 640.00\nPago 14 de 15 2026-12-17 $ 320.00 $ 320.00\nPago 15 de 15 2026-12-24 $ 320.00 $ 0.00\n2 / 3\n\nTérminos y condiciones\n3 / 3"
+    },
+    {
+        "id": "contrato-1057-0001",
+        "contrato": "1057",
+        "tipo": "contrato",
+        "archivo": "1057.txt",
+        "chunk": 1,
+        "texto": "CONTRATO\nFOLIO\n001057\nDATOS DEL VENDEDOR\nNOMBRE SUCURSAL\nDATOS DEL CLIENTE\nNOMBRE DEL CLIENTE\nDATOS DEL EQUIPO\nIMEI ID DEL DISPOSITIVO\nMARCA Y MODELO VARIANTE\nMOTOROLA MOTO G35 5G NUEVO CLIENTE\nALMACENAMIENTO MEMORIA\n256 GB GB 4 + 8 GB GB\n1 / 3\n\nDATOS DEL FINANCIAMIENTO\nSEMANAS PLAN\n18 NUEVO\nPRECIO DE CONTADO PRECIO FINAL\n$ 5,699.00 $ 8,989.00\nINTERÉS ANTICIPO\n170.0% $ 999.00\nSUBTOTAL PAGO SEMANAL\n$ 7,990.00 $ 443.89\nConcepto Fecha de pago Monto del pago Saldo pendiente\nAnticipo 2026-09-11 $ 999.00 $ 8,989.00\nSubtotal 2026-09-11 $ 0.00 $ 7,990.00\nPago 1 de 18 2026-09-18 $ 443.89 $ 7,546.11\nPago 2 de 18 2026-09-25 $ 443.89 $ 7,102.22\nPago 3 de 18 2026-10-02 $ 443.89 $ 6,658.33\nPago 4 de 18 2026-10-09 $ 443.89 $ 6,214.44\nPago 5 de 18 2026-10-16 $ 443.89 $ 5,770.55\nPago 6 de 18 2026-10-23 $ 4"
+    },
+    {
+        "id": "contrato-1057-0002",
+        "contrato": "1057",
+        "tipo": "contrato",
+        "archivo": "1057.txt",
+        "chunk": 2,
+        "texto": "18 2026-10-02 $ 443.89 $ 6,658.33\nPago 4 de 18 2026-10-09 $ 443.89 $ 6,214.44\nPago 5 de 18 2026-10-16 $ 443.89 $ 5,770.55\nPago 6 de 18 2026-10-23 $ 443.89 $ 5,326.66\nPago 7 de 18 2026-10-30 $ 443.89 $ 4,882.77\nPago 8 de 18 2026-11-06 $ 443.89 $ 4,438.88\nPago 9 de 18 2026-11-13 $ 443.89 $ 3,994.99\nPago 10 de 18 2026-11-20 $ 443.89 $ 3,551.10\nPago 11 de 18 2026-11-27 $ 443.89 $ 3,107.21\nPago 12 de 18 2026-12-04 $ 443.89 $ 2,663.32\nPago 13 de 18 2026-12-11 $ 443.89 $ 2,219.43\nPago 14 de 18 2026-12-18 $ 443.89 $ 1,775.54\nPago 15 de 18 2026-12-25 $ 443.89 $ 1,331.65\nPago 16 de 18 2027-01-01 $ 443.89 $ 887.76\nPago 17 de 18 2027-01-08 $ 443.89 $ 443.87\nPago 18 de 18 2027-01-15 $ 443.87 $ 0.00\n2 / 3\n\nTérminos y condiciones\n3 / 3"
+    },
+    {
+        "id": "contrato-1057-0003",
+        "contrato": "1057",
+        "tipo": "contrato",
+        "archivo": "1057.txt",
+        "chunk": 3,
+        "texto": "3.87\nPago 18 de 18 2027-01-15 $ 443.87 $ 0.00\n2 / 3\n\nTérminos y condiciones\n3 / 3"
+    },
+    {
+        "id": "contrato-1058-0001",
+        "contrato": "1058",
+        "tipo": "contrato",
+        "archivo": "1058.txt",
+        "chunk": 1,
+        "texto": "CONTRATO\nFOLIO\n001058\nDATOS DEL VENDEDOR\nNOMBRE SUCURSAL\nDATOS DEL CLIENTE\nNOMBRE DEL CLIENTE\nDATOS DEL EQUIPO\nIMEI ID DEL DISPOSITIVO\nMARCA Y MODELO VARIANTE\nXIAOMI REDMI NOTE 15 PRO RECOMPRA\nALMACENAMIENTO MEMORIA\n256 GB GB 8 GB GB\n1 / 4\n\nDATOS DEL FINANCIAMIENTO\nSEMANAS PLAN\n43 NUEVO\nPRECIO DE CONTADO PRECIO FINAL\n$ 8,799.00 $ 14,958.30\nINTERÉS ANTICIPO\n170.0% $ 0.00\nSUBTOTAL PAGO SEMANAL\n$ 14,958.30 $ 347.87\nConcepto Fecha de pago Monto del pago Saldo pendiente\nAnticipo 2026-09-11 $ 0.00 $ 14,958.30\nSubtotal 2026-09-11 $ 0.00 $ 14,958.30\nPago 1 de 43 2026-09-18 $ 347.87 $ 14,610.43\nPago 2 de 43 2026-09-25 $ 347.87 $ 14,262.56\nPago 3 de 43 2026-10-02 $ 347.87 $ 13,914.69\nPago 4 de 43 2026-10-09 $ 347.87 $ 13,566.82\nPago 5 de 43 2026-10-16 $ 347.87 $ 13,218.95\nPago 6 de 43 2026-10-23 $ 3"
+    },
+    {
+        "id": "contrato-1058-0002",
+        "contrato": "1058",
+        "tipo": "contrato",
+        "archivo": "1058.txt",
+        "chunk": 2,
+        "texto": "2026-10-02 $ 347.87 $ 13,914.69\nPago 4 de 43 2026-10-09 $ 347.87 $ 13,566.82\nPago 5 de 43 2026-10-16 $ 347.87 $ 13,218.95\nPago 6 de 43 2026-10-23 $ 347.87 $ 12,871.08\nPago 7 de 43 2026-10-30 $ 347.87 $ 12,523.21\nPago 8 de 43 2026-11-06 $ 347.87 $ 12,175.34\nPago 9 de 43 2026-11-13 $ 347.87 $ 11,827.47\nPago 10 de 43 2026-11-20 $ 347.87 $ 11,479.60\nPago 11 de 43 2026-11-27 $ 347.87 $ 11,131.73\nPago 12 de 43 2026-12-04 $ 347.87 $ 10,783.86\nPago 13 de 43 2026-12-11 $ 347.87 $ 10,435.99\nPago 14 de 43 2026-12-18 $ 347.87 $ 10,088.12\nPago 15 de 43 2026-12-25 $ 347.87 $ 9,740.25\nPago 16 de 43 2027-01-01 $ 347.87 $ 9,392.38\nPago 17 de 43 2027-01-08 $ 347.87 $ 9,044.51\nPago 18 de 43 2027-01-15 $ 347.87 $ 8,696.64\nPago 19 de 43 2027-01-22 $ 347.87 $ 8,348.77\nPago 20 de 43 2027-01-29 $ 347.87 $ 8,000."
+    },
+    {
+        "id": "contrato-1058-0003",
+        "contrato": "1058",
+        "tipo": "contrato",
+        "archivo": "1058.txt",
+        "chunk": 3,
+        "texto": "347.87 $ 9,044.51\nPago 18 de 43 2027-01-15 $ 347.87 $ 8,696.64\nPago 19 de 43 2027-01-22 $ 347.87 $ 8,348.77\nPago 20 de 43 2027-01-29 $ 347.87 $ 8,000.90\nPago 21 de 43 2027-02-05 $ 347.87 $ 7,653.03\nPago 22 de 43 2027-02-12 $ 347.87 $ 7,305.16\nPago 23 de 43 2027-02-19 $ 347.87 $ 6,957.29\nPago 24 de 43 2027-02-26 $ 347.87 $ 6,609.42\nPago 25 de 43 2027-03-05 $ 347.87 $ 6,261.55\nPago 26 de 43 2027-03-12 $ 347.87 $ 5,913.68\n2 / 4\n\nConcepto Fecha de pago Monto del pago Saldo pendiente\nPago 27 de 43 2027-03-19 $ 347.87 $ 5,565.81\nPago 28 de 43 2027-03-26 $ 347.87 $ 5,217.94\nPago 29 de 43 2027-04-02 $ 347.87 $ 4,870.07\nPago 30 de 43 2027-04-09 $ 347.87 $ 4,522.20\nPago 31 de 43 2027-04-16 $ 347.87 $ 4,174.33\nPago 32 de 43 2027-04-23 $ 347.87 $ 3,826.46\nPago 33 de 43 2027-04-30 $ 347.87 $ 3,478.59\nP"
+    },
+    {
+        "id": "contrato-1058-0004",
+        "contrato": "1058",
+        "tipo": "contrato",
+        "archivo": "1058.txt",
+        "chunk": 4,
+        "texto": "87 $ 4,522.20\nPago 31 de 43 2027-04-16 $ 347.87 $ 4,174.33\nPago 32 de 43 2027-04-23 $ 347.87 $ 3,826.46\nPago 33 de 43 2027-04-30 $ 347.87 $ 3,478.59\nPago 34 de 43 2027-05-07 $ 347.87 $ 3,130.72\nPago 35 de 43 2027-05-14 $ 347.87 $ 2,782.85\nPago 36 de 43 2027-05-21 $ 347.87 $ 2,434.98\nPago 37 de 43 2027-05-28 $ 347.87 $ 2,087.11\nPago 38 de 43 2027-06-04 $ 347.87 $ 1,739.24\nPago 39 de 43 2027-06-11 $ 347.87 $ 1,391.37\nPago 40 de 43 2027-06-18 $ 347.87 $ 1,043.50\nPago 41 de 43 2027-06-25 $ 347.87 $ 695.63\nPago 42 de 43 2027-07-02 $ 347.87 $ 347.76\nPago 43 de 43 2027-07-09 $ 347.76 $ 0.00\n3 / 4\n\nTérminos y condiciones\n4 / 4"
+    },
+    {
+        "id": "contrato-1059-0001",
+        "contrato": "1059",
+        "tipo": "contrato",
+        "archivo": "1059.txt",
+        "chunk": 1,
+        "texto": "CONTRATO\nFOLIO\n001059\nDATOS DEL VENDEDOR\nNOMBRE SUCURSAL\nDATOS DEL CLIENTE\nNOMBRE DEL CLIENTE\nDATOS DEL EQUIPO\nIMEI ID DEL DISPOSITIVO\nMARCA Y MODELO VARIANTE\nXIAOMI REDMI A7 PRO ACCESS NUEVO CLIENTE\nALMACENAMIENTO MEMORIA\n128 GB GB 4 GB GB\n1 / 4\n\nDATOS DEL FINANCIAMIENTO\nSEMANAS PLAN\n43 NUEVO\nPRECIO DE CONTADO PRECIO FINAL\n$ 5,699.00 $ 11,809.00\nINTERÉS ANTICIPO\n230.0% $ 999.00\nSUBTOTAL PAGO SEMANAL\n$ 10,810.00 $ 251.40\nConcepto Fecha de pago Monto del pago Saldo pendiente\nAnticipo 2026-09-12 $ 999.00 $ 11,809.00\nSubtotal 2026-09-12 $ 0.00 $ 10,810.00\nPago 1 de 43 2026-09-19 $ 251.40 $ 10,558.60\nPago 2 de 43 2026-09-26 $ 251.40 $ 10,307.20\nPago 3 de 43 2026-10-03 $ 251.40 $ 10,055.80\nPago 4 de 43 2026-10-10 $ 251.40 $ 9,804.40\nPago 5 de 43 2026-10-17 $ 251.40 $ 9,553.00\nPago 6 de 43 2026-"
+    },
+    {
+        "id": "contrato-1059-0002",
+        "contrato": "1059",
+        "tipo": "contrato",
+        "archivo": "1059.txt",
+        "chunk": 2,
+        "texto": "ago 3 de 43 2026-10-03 $ 251.40 $ 10,055.80\nPago 4 de 43 2026-10-10 $ 251.40 $ 9,804.40\nPago 5 de 43 2026-10-17 $ 251.40 $ 9,553.00\nPago 6 de 43 2026-10-24 $ 251.40 $ 9,301.60\nPago 7 de 43 2026-10-31 $ 251.40 $ 9,050.20\nPago 8 de 43 2026-11-07 $ 251.40 $ 8,798.80\nPago 9 de 43 2026-11-14 $ 251.40 $ 8,547.40\nPago 10 de 43 2026-11-21 $ 251.40 $ 8,296.00\nPago 11 de 43 2026-11-28 $ 251.40 $ 8,044.60\nPago 12 de 43 2026-12-05 $ 251.40 $ 7,793.20\nPago 13 de 43 2026-12-12 $ 251.40 $ 7,541.80\nPago 14 de 43 2026-12-19 $ 251.40 $ 7,290.40\nPago 15 de 43 2026-12-26 $ 251.40 $ 7,039.00\nPago 16 de 43 2027-01-02 $ 251.40 $ 6,787.60\nPago 17 de 43 2027-01-09 $ 251.40 $ 6,536.20\nPago 18 de 43 2027-01-16 $ 251.40 $ 6,284.80\nPago 19 de 43 2027-01-23 $ 251.40 $ 6,033.40\nPago 20 de 43 2027-01-30 $ 251.40 $ 5,782."
+    },
+    {
+        "id": "contrato-1059-0003",
+        "contrato": "1059",
+        "tipo": "contrato",
+        "archivo": "1059.txt",
+        "chunk": 3,
+        "texto": "251.40 $ 6,536.20\nPago 18 de 43 2027-01-16 $ 251.40 $ 6,284.80\nPago 19 de 43 2027-01-23 $ 251.40 $ 6,033.40\nPago 20 de 43 2027-01-30 $ 251.40 $ 5,782.00\nPago 21 de 43 2027-02-06 $ 251.40 $ 5,530.60\nPago 22 de 43 2027-02-13 $ 251.40 $ 5,279.20\nPago 23 de 43 2027-02-20 $ 251.40 $ 5,027.80\nPago 24 de 43 2027-02-27 $ 251.40 $ 4,776.40\nPago 25 de 43 2027-03-06 $ 251.40 $ 4,525.00\nPago 26 de 43 2027-03-13 $ 251.40 $ 4,273.60\n2 / 4\n\nConcepto Fecha de pago Monto del pago Saldo pendiente\nPago 27 de 43 2027-03-20 $ 251.40 $ 4,022.20\nPago 28 de 43 2027-03-27 $ 251.40 $ 3,770.80\nPago 29 de 43 2027-04-03 $ 251.40 $ 3,519.40\nPago 30 de 43 2027-04-10 $ 251.40 $ 3,268.00\nPago 31 de 43 2027-04-17 $ 251.40 $ 3,016.60\nPago 32 de 43 2027-04-24 $ 251.40 $ 2,765.20\nPago 33 de 43 2027-05-01 $ 251.40 $ 2,513.80\nP"
+    },
+    {
+        "id": "contrato-1059-0004",
+        "contrato": "1059",
+        "tipo": "contrato",
+        "archivo": "1059.txt",
+        "chunk": 4,
+        "texto": "40 $ 3,268.00\nPago 31 de 43 2027-04-17 $ 251.40 $ 3,016.60\nPago 32 de 43 2027-04-24 $ 251.40 $ 2,765.20\nPago 33 de 43 2027-05-01 $ 251.40 $ 2,513.80\nPago 34 de 43 2027-05-08 $ 251.40 $ 2,262.40\nPago 35 de 43 2027-05-15 $ 251.40 $ 2,011.00\nPago 36 de 43 2027-05-22 $ 251.40 $ 1,759.60\nPago 37 de 43 2027-05-29 $ 251.40 $ 1,508.20\nPago 38 de 43 2027-06-05 $ 251.40 $ 1,256.80\nPago 39 de 43 2027-06-12 $ 251.40 $ 1,005.40\nPago 40 de 43 2027-06-19 $ 251.40 $ 754.00\nPago 41 de 43 2027-06-26 $ 251.40 $ 502.60\nPago 42 de 43 2027-07-03 $ 251.40 $ 251.20\nPago 43 de 43 2027-07-10 $ 251.20 $ 0.00\n3 / 4\n\nTérminos y condiciones\n4 / 4"
+    },
+    {
+        "id": "contrato-1063-0001",
+        "contrato": "1063",
+        "tipo": "contrato",
+        "archivo": "1063.txt",
+        "chunk": 1,
+        "texto": "CONTRATO\nFOLIO\n001063\nDATOS DEL VENDEDOR\nNOMBRE SUCURSAL\nDATOS DEL CLIENTE\nNOMBRE DEL CLIENTE\n677\nDATOS DEL EQUIPO\nIMEI ID DEL DISPOSITIVO\nMARCA Y MODELO VARIANTE\nXIAOMI REDMI A7 PRO ACCESS NUEVO CLIENTE\nALMACENAMIENTO MEMORIA\n128 GB GB 4 GB GB\n1 / 4\n\nDATOS DEL FINANCIAMIENTO\nSEMANAS PLAN\n43 NUEVO\nPRECIO DE CONTADO PRECIO FINAL\n$ 5,699.00 $ 11,809.00\nINTERÉS ANTICIPO\n230.0% $ 999.00\nSUBTOTAL PAGO SEMANAL\n$ 10,810.00 $ 251.40\nConcepto Fecha de pago Monto del pago Saldo pendiente\nAnticipo 2026-09-14 $ 999.00 $ 11,809.00\nSubtotal 2026-09-14 $ 0.00 $ 10,810.00\nPago 1 de 43 2026-09-21 $ 251.40 $ 10,558.60\nPago 2 de 43 2026-09-28 $ 251.40 $ 10,307.20\nPago 3 de 43 2026-10-05 $ 251.40 $ 10,055.80\nPago 4 de 43 2026-10-12 $ 251.40 $ 9,804.40\nPago 5 de 43 2026-10-19 $ 251.40 $ 9,553.00\nPago 6 de 43 2"
+    },
+    {
+        "id": "contrato-1063-0002",
+        "contrato": "1063",
+        "tipo": "contrato",
+        "archivo": "1063.txt",
+        "chunk": 2,
+        "texto": "20\nPago 3 de 43 2026-10-05 $ 251.40 $ 10,055.80\nPago 4 de 43 2026-10-12 $ 251.40 $ 9,804.40\nPago 5 de 43 2026-10-19 $ 251.40 $ 9,553.00\nPago 6 de 43 2026-10-26 $ 251.40 $ 9,301.60\nPago 7 de 43 2026-11-02 $ 251.40 $ 9,050.20\nPago 8 de 43 2026-11-09 $ 251.40 $ 8,798.80\nPago 9 de 43 2026-11-16 $ 251.40 $ 8,547.40\nPago 10 de 43 2026-11-23 $ 251.40 $ 8,296.00\nPago 11 de 43 2026-11-30 $ 251.40 $ 8,044.60\nPago 12 de 43 2026-12-07 $ 251.40 $ 7,793.20\nPago 13 de 43 2026-12-14 $ 251.40 $ 7,541.80\nPago 14 de 43 2026-12-21 $ 251.40 $ 7,290.40\nPago 15 de 43 2026-12-28 $ 251.40 $ 7,039.00\nPago 16 de 43 2027-01-04 $ 251.40 $ 6,787.60\nPago 17 de 43 2027-01-11 $ 251.40 $ 6,536.20\nPago 18 de 43 2027-01-18 $ 251.40 $ 6,284.80\nPago 19 de 43 2027-01-25 $ 251.40 $ 6,033.40\nPago 20 de 43 2027-02-01 $ 251.40 $ 5,"
+    },
+    {
+        "id": "contrato-1063-0003",
+        "contrato": "1063",
+        "tipo": "contrato",
+        "archivo": "1063.txt",
+        "chunk": 3,
+        "texto": "1 $ 251.40 $ 6,536.20\nPago 18 de 43 2027-01-18 $ 251.40 $ 6,284.80\nPago 19 de 43 2027-01-25 $ 251.40 $ 6,033.40\nPago 20 de 43 2027-02-01 $ 251.40 $ 5,782.00\nPago 21 de 43 2027-02-08 $ 251.40 $ 5,530.60\nPago 22 de 43 2027-02-15 $ 251.40 $ 5,279.20\nPago 23 de 43 2027-02-22 $ 251.40 $ 5,027.80\nPago 24 de 43 2027-03-01 $ 251.40 $ 4,776.40\nPago 25 de 43 2027-03-08 $ 251.40 $ 4,525.00\nPago 26 de 43 2027-03-15 $ 251.40 $ 4,273.60\n2 / 4\n\nConcepto Fecha de pago Monto del pago Saldo pendiente\nPago 27 de 43 2027-03-22 $ 251.40 $ 4,022.20\nPago 28 de 43 2027-03-29 $ 251.40 $ 3,770.80\nPago 29 de 43 2027-04-05 $ 251.40 $ 3,519.40\nPago 30 de 43 2027-04-12 $ 251.40 $ 3,268.00\nPago 31 de 43 2027-04-19 $ 251.40 $ 3,016.60\nPago 32 de 43 2027-04-26 $ 251.40 $ 2,765.20\nPago 33 de 43 2027-05-03 $ 251.40 $ 2,513."
+    },
+    {
+        "id": "contrato-1063-0004",
+        "contrato": "1063",
+        "tipo": "contrato",
+        "archivo": "1063.txt",
+        "chunk": 4,
+        "texto": "251.40 $ 3,268.00\nPago 31 de 43 2027-04-19 $ 251.40 $ 3,016.60\nPago 32 de 43 2027-04-26 $ 251.40 $ 2,765.20\nPago 33 de 43 2027-05-03 $ 251.40 $ 2,513.80\nPago 34 de 43 2027-05-10 $ 251.40 $ 2,262.40\nPago 35 de 43 2027-05-17 $ 251.40 $ 2,011.00\nPago 36 de 43 2027-05-24 $ 251.40 $ 1,759.60\nPago 37 de 43 2027-05-31 $ 251.40 $ 1,508.20\nPago 38 de 43 2027-06-07 $ 251.40 $ 1,256.80\nPago 39 de 43 2027-06-14 $ 251.40 $ 1,005.40\nPago 40 de 43 2027-06-21 $ 251.40 $ 754.00\nPago 41 de 43 2027-06-28 $ 251.40 $ 502.60\nPago 42 de 43 2027-07-05 $ 251.40 $ 251.20\nPago 43 de 43 2027-07-12 $ 251.20 $ 0.00\n3 / 4\n\nTérminos y condiciones\n4 / 4"
+    },
+    {
+        "id": "contrato-1066-0001",
+        "contrato": "1066",
+        "tipo": "contrato",
+        "archivo": "1066.txt",
+        "chunk": 1,
+        "texto": "CONTRATO\nFOLIO\n001066\nDATOS DEL VENDEDOR\nNOMBRE SUCURSAL\nDATOS DEL CLIENTE\nNOMBRE DEL CLIENTE\nDATOS DEL EQUIPO\nIMEI ID DEL DISPOSITIVO\nMARCA Y MODELO VARIANTE\nSAMSUNG A57 ENGANCHA 1000\nALMACENAMIENTO MEMORIA\n256 GB 8 GB\n1 / 4\n\nDATOS DEL FINANCIAMIENTO\nSEMANAS PLAN\n35 RENOVACIÓN\nPRECIO DE CONTADO PRECIO FINAL\n$ 10,299.00 $ 16,343.35\nINTERÉS ANTICIPO\n165.0% $ 1,000.00\nSUBTOTAL PAGO SEMANAL\n$ 15,343.35 $ 438.38\nConcepto Fecha de pago Monto del pago Saldo pendiente\nAnticipo 2026-09-14 $ 1,000.00 $ 16,343.35\nSubtotal 2026-09-14 $ 0.00 $ 15,343.35\nPago 1 de 35 2026-09-21 $ 438.38 $ 14,904.97\nPago 2 de 35 2026-09-28 $ 438.38 $ 14,466.59\nPago 3 de 35 2026-10-05 $ 438.38 $ 14,028.21\nPago 4 de 35 2026-10-12 $ 438.38 $ 13,589.83\nPago 5 de 35 2026-10-19 $ 438.38 $ 13,151.45\nPago 6 de 35 2026-10-26 $ 4"
+    },
+    {
+        "id": "contrato-1066-0002",
+        "contrato": "1066",
+        "tipo": "contrato",
+        "archivo": "1066.txt",
+        "chunk": 2,
+        "texto": "2026-10-05 $ 438.38 $ 14,028.21\nPago 4 de 35 2026-10-12 $ 438.38 $ 13,589.83\nPago 5 de 35 2026-10-19 $ 438.38 $ 13,151.45\nPago 6 de 35 2026-10-26 $ 438.38 $ 12,713.07\nPago 7 de 35 2026-11-02 $ 438.38 $ 12,274.69\nPago 8 de 35 2026-11-09 $ 438.38 $ 11,836.31\nPago 9 de 35 2026-11-16 $ 438.38 $ 11,397.93\nPago 10 de 35 2026-11-23 $ 438.38 $ 10,959.55\nPago 11 de 35 2026-11-30 $ 438.38 $ 10,521.17\nPago 12 de 35 2026-12-07 $ 438.38 $ 10,082.79\nPago 13 de 35 2026-12-14 $ 438.38 $ 9,644.41\nPago 14 de 35 2026-12-21 $ 438.38 $ 9,206.03\nPago 15 de 35 2026-12-28 $ 438.38 $ 8,767.65\nPago 16 de 35 2027-01-04 $ 438.38 $ 8,329.27\nPago 17 de 35 2027-01-11 $ 438.38 $ 7,890.89\nPago 18 de 35 2027-01-18 $ 438.38 $ 7,452.51\nPago 19 de 35 2027-01-25 $ 438.38 $ 7,014.13\nPago 20 de 35 2027-02-01 $ 438.38 $ 6,575.75"
+    },
+    {
+        "id": "contrato-1066-0003",
+        "contrato": "1066",
+        "tipo": "contrato",
+        "archivo": "1066.txt",
+        "chunk": 3,
+        "texto": "8.38 $ 7,890.89\nPago 18 de 35 2027-01-18 $ 438.38 $ 7,452.51\nPago 19 de 35 2027-01-25 $ 438.38 $ 7,014.13\nPago 20 de 35 2027-02-01 $ 438.38 $ 6,575.75\nPago 21 de 35 2027-02-08 $ 438.38 $ 6,137.37\nPago 22 de 35 2027-02-15 $ 438.38 $ 5,698.99\nPago 23 de 35 2027-02-22 $ 438.38 $ 5,260.61\nPago 24 de 35 2027-03-01 $ 438.38 $ 4,822.23\nPago 25 de 35 2027-03-08 $ 438.38 $ 4,383.85\nPago 26 de 35 2027-03-15 $ 438.38 $ 3,945.47\n2 / 4\n\nConcepto Fecha de pago Monto del pago Saldo pendiente\nPago 27 de 35 2027-03-22 $ 438.38 $ 3,507.09\nPago 28 de 35 2027-03-29 $ 438.38 $ 3,068.71\nPago 29 de 35 2027-04-05 $ 438.38 $ 2,630.33\nPago 30 de 35 2027-04-12 $ 438.38 $ 2,191.95\nPago 31 de 35 2027-04-19 $ 438.38 $ 1,753.57\nPago 32 de 35 2027-04-26 $ 438.38 $ 1,315.19\nPago 33 de 35 2027-05-03 $ 438.38 $ 876.81\nPago"
+    },
+    {
+        "id": "contrato-1066-0004",
+        "contrato": "1066",
+        "tipo": "contrato",
+        "archivo": "1066.txt",
+        "chunk": 4,
+        "texto": "$ 2,191.95\nPago 31 de 35 2027-04-19 $ 438.38 $ 1,753.57\nPago 32 de 35 2027-04-26 $ 438.38 $ 1,315.19\nPago 33 de 35 2027-05-03 $ 438.38 $ 876.81\nPago 34 de 35 2027-05-10 $ 438.38 $ 438.43\nPago 35 de 35 2027-05-17 $ 438.43 $ 0.00\n3 / 4\n\nTérminos y condiciones\n4 / 4"
+    },
+    {
+        "id": "contrato-1068-0001",
+        "contrato": "1068",
+        "tipo": "contrato",
+        "archivo": "1068.txt",
+        "chunk": 1,
+        "texto": "CONTRATO\nFOLIO\n001068\nDATOS DEL VENDEDOR\nNOMBRE SUCURSAL\nDATOS DEL CLIENTE\nNOMBRE DEL CLIENTE\nDATOS DEL EQUIPO\nIMEI ID DEL DISPOSITIVO\nMARCA Y MODELO VARIANTE\nXIAOMI REDMI A7 PRO ACCESS RECOMPRA\nALMACENAMIENTO MEMORIA\n128 GB GB 4 GB GB\n1 / 4\n\nDATOS DEL FINANCIAMIENTO\nSEMANAS PLAN\n35 RENOVACIÓN\nPRECIO DE CONTADO PRECIO FINAL\n$ 5,199.00 $ 8,578.35\nINTERÉS ANTICIPO\n165.0% $ 0.00\nSUBTOTAL PAGO SEMANAL\n$ 8,578.35 $ 245.10\nConcepto Fecha de pago Monto del pago Saldo pendiente\nAnticipo 2026-09-14 $ 0.00 $ 8,578.35\nSubtotal 2026-09-14 $ 0.00 $ 8,578.35\nPago 1 de 35 2026-09-21 $ 245.10 $ 8,333.25\nPago 2 de 35 2026-09-28 $ 245.10 $ 8,088.15\nPago 3 de 35 2026-10-05 $ 245.10 $ 7,843.05\nPago 4 de 35 2026-10-12 $ 245.10 $ 7,597.95\nPago 5 de 35 2026-10-19 $ 245.10 $ 7,352.85\nPago 6 de 35 2026-10-26 $ 245"
+    },
+    {
+        "id": "contrato-1068-0002",
+        "contrato": "1068",
+        "tipo": "contrato",
+        "archivo": "1068.txt",
+        "chunk": 2,
+        "texto": "5 2026-10-05 $ 245.10 $ 7,843.05\nPago 4 de 35 2026-10-12 $ 245.10 $ 7,597.95\nPago 5 de 35 2026-10-19 $ 245.10 $ 7,352.85\nPago 6 de 35 2026-10-26 $ 245.10 $ 7,107.75\nPago 7 de 35 2026-11-02 $ 245.10 $ 6,862.65\nPago 8 de 35 2026-11-09 $ 245.10 $ 6,617.55\nPago 9 de 35 2026-11-16 $ 245.10 $ 6,372.45\nPago 10 de 35 2026-11-23 $ 245.10 $ 6,127.35\nPago 11 de 35 2026-11-30 $ 245.10 $ 5,882.25\nPago 12 de 35 2026-12-07 $ 245.10 $ 5,637.15\nPago 13 de 35 2026-12-14 $ 245.10 $ 5,392.05\nPago 14 de 35 2026-12-21 $ 245.10 $ 5,146.95\nPago 15 de 35 2026-12-28 $ 245.10 $ 4,901.85\nPago 16 de 35 2027-01-04 $ 245.10 $ 4,656.75\nPago 17 de 35 2027-01-11 $ 245.10 $ 4,411.65\nPago 18 de 35 2027-01-18 $ 245.10 $ 4,166.55\nPago 19 de 35 2027-01-25 $ 245.10 $ 3,921.45\nPago 20 de 35 2027-02-01 $ 245.10 $ 3,676.35\nPago 21"
+    },
+    {
+        "id": "contrato-1068-0003",
+        "contrato": "1068",
+        "tipo": "contrato",
+        "archivo": "1068.txt",
+        "chunk": 3,
+        "texto": "411.65\nPago 18 de 35 2027-01-18 $ 245.10 $ 4,166.55\nPago 19 de 35 2027-01-25 $ 245.10 $ 3,921.45\nPago 20 de 35 2027-02-01 $ 245.10 $ 3,676.35\nPago 21 de 35 2027-02-08 $ 245.10 $ 3,431.25\nPago 22 de 35 2027-02-15 $ 245.10 $ 3,186.15\nPago 23 de 35 2027-02-22 $ 245.10 $ 2,941.05\nPago 24 de 35 2027-03-01 $ 245.10 $ 2,695.95\nPago 25 de 35 2027-03-08 $ 245.10 $ 2,450.85\nPago 26 de 35 2027-03-15 $ 245.10 $ 2,205.75\n2 / 4\n\nConcepto Fecha de pago Monto del pago Saldo pendiente\nPago 27 de 35 2027-03-22 $ 245.10 $ 1,960.65\nPago 28 de 35 2027-03-29 $ 245.10 $ 1,715.55\nPago 29 de 35 2027-04-05 $ 245.10 $ 1,470.45\nPago 30 de 35 2027-04-12 $ 245.10 $ 1,225.35\nPago 31 de 35 2027-04-19 $ 245.10 $ 980.25\nPago 32 de 35 2027-04-26 $ 245.10 $ 735.15\nPago 33 de 35 2027-05-03 $ 245.10 $ 490.05\nPago 34 de 35 2027"
+    },
+    {
+        "id": "contrato-1068-0004",
+        "contrato": "1068",
+        "tipo": "contrato",
+        "archivo": "1068.txt",
+        "chunk": 4,
+        "texto": "35\nPago 31 de 35 2027-04-19 $ 245.10 $ 980.25\nPago 32 de 35 2027-04-26 $ 245.10 $ 735.15\nPago 33 de 35 2027-05-03 $ 245.10 $ 490.05\nPago 34 de 35 2027-05-10 $ 245.10 $ 244.95\nPago 35 de 35 2027-05-17 $ 244.95 $ 0.00\n3 / 4\n\nTérminos y condiciones\n4 / 4"
+    },
+    {
+        "id": "contrato-1073-0001",
+        "contrato": "1073",
+        "tipo": "contrato",
+        "archivo": "1073.txt",
+        "chunk": 1,
+        "texto": "CONTRATO\nFOLIO\n001073\nDATOS DEL VENDEDOR\nNOMBRE SUCURSAL\nDATOS DEL CLIENTE\nNOMBRE DEL CLIENTE\nDATOS DEL EQUIPO\nIMEI ID DEL DISPOSITIVO\nMARCA Y MODELO VARIANTE\nKXD A07 PRO NORMAL\nALMACENAMIENTO MEMORIA\n64 GB 4 GB\n1 / 4\n\nDATOS DEL FINANCIAMIENTO\nSEMANAS PLAN\n35 NUEVO\nPRECIO DE CONTADO PRECIO FINAL\n$ 3,999.00 $ 7,519.00\nINTERÉS ANTICIPO\n210.0% $ 799.00\nSUBTOTAL PAGO SEMANAL\n$ 6,720.00 $ 192.00\nConcepto Fecha de pago Monto del pago Saldo pendiente\nAnticipo 2026-09-15 $ 799.00 $ 7,519.00\nSubtotal 2026-09-15 $ 0.00 $ 6,720.00\nPago 1 de 35 2026-09-22 $ 192.00 $ 6,528.00\nPago 2 de 35 2026-09-29 $ 192.00 $ 6,336.00\nPago 3 de 35 2026-10-06 $ 192.00 $ 6,144.00\nPago 4 de 35 2026-10-13 $ 192.00 $ 5,952.00\nPago 5 de 35 2026-10-20 $ 192.00 $ 5,760.00\nPago 6 de 35 2026-10-27 $ 192.00 $ 5,568.00\nPago 7 de"
+    },
+    {
+        "id": "contrato-1073-0002",
+        "contrato": "1073",
+        "tipo": "contrato",
+        "archivo": "1073.txt",
+        "chunk": 2,
+        "texto": ",144.00\nPago 4 de 35 2026-10-13 $ 192.00 $ 5,952.00\nPago 5 de 35 2026-10-20 $ 192.00 $ 5,760.00\nPago 6 de 35 2026-10-27 $ 192.00 $ 5,568.00\nPago 7 de 35 2026-11-03 $ 192.00 $ 5,376.00\nPago 8 de 35 2026-11-10 $ 192.00 $ 5,184.00\nPago 9 de 35 2026-11-17 $ 192.00 $ 4,992.00\nPago 10 de 35 2026-11-24 $ 192.00 $ 4,800.00\nPago 11 de 35 2026-12-01 $ 192.00 $ 4,608.00\nPago 12 de 35 2026-12-08 $ 192.00 $ 4,416.00\nPago 13 de 35 2026-12-15 $ 192.00 $ 4,224.00\nPago 14 de 35 2026-12-22 $ 192.00 $ 4,032.00\nPago 15 de 35 2026-12-29 $ 192.00 $ 3,840.00\nPago 16 de 35 2027-01-05 $ 192.00 $ 3,648.00\nPago 17 de 35 2027-01-12 $ 192.00 $ 3,456.00\nPago 18 de 35 2027-01-19 $ 192.00 $ 3,264.00\nPago 19 de 35 2027-01-26 $ 192.00 $ 3,072.00\nPago 20 de 35 2027-02-02 $ 192.00 $ 2,880.00\nPago 21 de 35 2027-02-09 $ 192.00"
+    },
+    {
+        "id": "contrato-1073-0003",
+        "contrato": "1073",
+        "tipo": "contrato",
+        "archivo": "1073.txt",
+        "chunk": 3,
+        "texto": "-01-19 $ 192.00 $ 3,264.00\nPago 19 de 35 2027-01-26 $ 192.00 $ 3,072.00\nPago 20 de 35 2027-02-02 $ 192.00 $ 2,880.00\nPago 21 de 35 2027-02-09 $ 192.00 $ 2,688.00\nPago 22 de 35 2027-02-16 $ 192.00 $ 2,496.00\nPago 23 de 35 2027-02-23 $ 192.00 $ 2,304.00\nPago 24 de 35 2027-03-02 $ 192.00 $ 2,112.00\nPago 25 de 35 2027-03-09 $ 192.00 $ 1,920.00\nPago 26 de 35 2027-03-16 $ 192.00 $ 1,728.00\n2 / 4\n\nConcepto Fecha de pago Monto del pago Saldo pendiente\nPago 27 de 35 2027-03-23 $ 192.00 $ 1,536.00\nPago 28 de 35 2027-03-30 $ 192.00 $ 1,344.00\nPago 29 de 35 2027-04-06 $ 192.00 $ 1,152.00\nPago 30 de 35 2027-04-13 $ 192.00 $ 960.00\nPago 31 de 35 2027-04-20 $ 192.00 $ 768.00\nPago 32 de 35 2027-04-27 $ 192.00 $ 576.00\nPago 33 de 35 2027-05-04 $ 192.00 $ 384.00\nPago 34 de 35 2027-05-11 $ 192.00 $ 192.00\nPa"
+    },
+    {
+        "id": "contrato-1073-0004",
+        "contrato": "1073",
+        "tipo": "contrato",
+        "archivo": "1073.txt",
+        "chunk": 4,
+        "texto": "$ 192.00 $ 768.00\nPago 32 de 35 2027-04-27 $ 192.00 $ 576.00\nPago 33 de 35 2027-05-04 $ 192.00 $ 384.00\nPago 34 de 35 2027-05-11 $ 192.00 $ 192.00\nPago 35 de 35 2027-05-18 $ 192.00 $ 0.00\n3 / 4\n\nTérminos y condiciones\n4 / 4"
+    },
+    {
+        "id": "contrato-1074-0001",
+        "contrato": "1074",
+        "tipo": "contrato",
+        "archivo": "1074.txt",
+        "chunk": 1,
+        "texto": "CONTRATO\nFOLIO\n001074\nDATOS DEL VENDEDOR\nNOMBRE SUCURSAL\nDATOS DEL CLIENTE\nNOMBRE DEL CLIENTE\nDATOS DEL EQUIPO\nIMEI ID DEL DISPOSITIVO\nMARCA Y MODELO VARIANTE\nXIAOMI REDMI A7 NUEVO CLIENTE\nALMACENAMIENTO MEMORIA\n64 GB 3 GB\n1 / 4\n\nDATOS DEL FINANCIAMIENTO\nSEMANAS PLAN\n35 NUEVO\nPRECIO DE CONTADO PRECIO FINAL\n$ 3,999.00 $ 7,519.00\nINTERÉS ANTICIPO\n210.0% $ 799.00\nSUBTOTAL PAGO SEMANAL\n$ 6,720.00 $ 192.00\nConcepto Fecha de pago Monto del pago Saldo pendiente\nAnticipo 2026-09-16 $ 799.00 $ 7,519.00\nSubtotal 2026-09-16 $ 0.00 $ 6,720.00\nPago 1 de 35 2026-09-23 $ 192.00 $ 6,528.00\nPago 2 de 35 2026-09-30 $ 192.00 $ 6,336.00\nPago 3 de 35 2026-10-07 $ 192.00 $ 6,144.00\nPago 4 de 35 2026-10-14 $ 192.00 $ 5,952.00\nPago 5 de 35 2026-10-21 $ 192.00 $ 5,760.00\nPago 6 de 35 2026-10-28 $ 192.00 $ 5,568.00"
+    },
+    {
+        "id": "contrato-1074-0002",
+        "contrato": "1074",
+        "tipo": "contrato",
+        "archivo": "1074.txt",
+        "chunk": 2,
+        "texto": "192.00 $ 6,144.00\nPago 4 de 35 2026-10-14 $ 192.00 $ 5,952.00\nPago 5 de 35 2026-10-21 $ 192.00 $ 5,760.00\nPago 6 de 35 2026-10-28 $ 192.00 $ 5,568.00\nPago 7 de 35 2026-11-04 $ 192.00 $ 5,376.00\nPago 8 de 35 2026-11-11 $ 192.00 $ 5,184.00\nPago 9 de 35 2026-11-18 $ 192.00 $ 4,992.00\nPago 10 de 35 2026-11-25 $ 192.00 $ 4,800.00\nPago 11 de 35 2026-12-02 $ 192.00 $ 4,608.00\nPago 12 de 35 2026-12-09 $ 192.00 $ 4,416.00\nPago 13 de 35 2026-12-16 $ 192.00 $ 4,224.00\nPago 14 de 35 2026-12-23 $ 192.00 $ 4,032.00\nPago 15 de 35 2026-12-30 $ 192.00 $ 3,840.00\nPago 16 de 35 2027-01-06 $ 192.00 $ 3,648.00\nPago 17 de 35 2027-01-13 $ 192.00 $ 3,456.00\nPago 18 de 35 2027-01-20 $ 192.00 $ 3,264.00\nPago 19 de 35 2027-01-27 $ 192.00 $ 3,072.00\nPago 20 de 35 2027-02-03 $ 192.00 $ 2,880.00\nPago 21 de 35 2027-02-"
+    },
+    {
+        "id": "contrato-1074-0003",
+        "contrato": "1074",
+        "tipo": "contrato",
+        "archivo": "1074.txt",
+        "chunk": 3,
+        "texto": "de 35 2027-01-20 $ 192.00 $ 3,264.00\nPago 19 de 35 2027-01-27 $ 192.00 $ 3,072.00\nPago 20 de 35 2027-02-03 $ 192.00 $ 2,880.00\nPago 21 de 35 2027-02-10 $ 192.00 $ 2,688.00\nPago 22 de 35 2027-02-17 $ 192.00 $ 2,496.00\nPago 23 de 35 2027-02-24 $ 192.00 $ 2,304.00\nPago 24 de 35 2027-03-03 $ 192.00 $ 2,112.00\nPago 25 de 35 2027-03-10 $ 192.00 $ 1,920.00\nPago 26 de 35 2027-03-17 $ 192.00 $ 1,728.00\n2 / 4\n\nConcepto Fecha de pago Monto del pago Saldo pendiente\nPago 27 de 35 2027-03-24 $ 192.00 $ 1,536.00\nPago 28 de 35 2027-03-31 $ 192.00 $ 1,344.00\nPago 29 de 35 2027-04-07 $ 192.00 $ 1,152.00\nPago 30 de 35 2027-04-14 $ 192.00 $ 960.00\nPago 31 de 35 2027-04-21 $ 192.00 $ 768.00\nPago 32 de 35 2027-04-28 $ 192.00 $ 576.00\nPago 33 de 35 2027-05-05 $ 192.00 $ 384.00\nPago 34 de 35 2027-05-12 $ 192.00"
+    },
+    {
+        "id": "contrato-1074-0004",
+        "contrato": "1074",
+        "tipo": "contrato",
+        "archivo": "1074.txt",
+        "chunk": 4,
+        "texto": "2027-04-21 $ 192.00 $ 768.00\nPago 32 de 35 2027-04-28 $ 192.00 $ 576.00\nPago 33 de 35 2027-05-05 $ 192.00 $ 384.00\nPago 34 de 35 2027-05-12 $ 192.00 $ 192.00\nPago 35 de 35 2027-05-19 $ 192.00 $ 0.00\n3 / 4\n\nTérminos y condiciones\n4 / 4"
+    },
+    {
+        "id": "contrato-1081-0001",
+        "contrato": "1081",
+        "tipo": "contrato",
+        "archivo": "1081.txt",
+        "chunk": 1,
+        "texto": "CONTRATO\nFOLIO\n001081\nDATOS DEL VENDEDOR\nNOMBRE SUCURSAL\nDATOS DEL CLIENTE\nNOMBRE DEL CLIENTE\nDATOS DEL EQUIPO\nIMEI ID DEL DISPOSITIVO\nMARCA Y MODELO VARIANTE\nMOTOROLA MOTO G86 ESPECIAL 4999\nALMACENAMIENTO MEMORIA\n256 GB 8 GB\n1 / 4\n\nDATOS DEL FINANCIAMIENTO\nSEMANAS PLAN\n43 NUEVO\nPRECIO DE CONTADO PRECIO FINAL\n$ 4,999.00 $ 4,999.00\nINTERÉS ANTICIPO\n100.0% $ 0.00\nSUBTOTAL PAGO SEMANAL\n$ 4,999.00 $ 116.26\nConcepto Fecha de pago Monto del pago Saldo pendiente\nAnticipo 2026-09-17 $ 0.00 $ 4,999.00\nSubtotal 2026-09-17 $ 0.00 $ 4,999.00\nPago 1 de 43 2026-09-24 $ 116.26 $ 4,882.74\nPago 2 de 43 2026-10-01 $ 116.26 $ 4,766.48\nPago 3 de 43 2026-10-08 $ 116.26 $ 4,650.22\nPago 4 de 43 2026-10-15 $ 116.26 $ 4,533.96\nPago 5 de 43 2026-10-22 $ 116.26 $ 4,417.70\nPago 6 de 43 2026-10-29 $ 116.26 $ 4,301.44"
+    },
+    {
+        "id": "contrato-1081-0002",
+        "contrato": "1081",
+        "tipo": "contrato",
+        "archivo": "1081.txt",
+        "chunk": 2,
+        "texto": "116.26 $ 4,650.22\nPago 4 de 43 2026-10-15 $ 116.26 $ 4,533.96\nPago 5 de 43 2026-10-22 $ 116.26 $ 4,417.70\nPago 6 de 43 2026-10-29 $ 116.26 $ 4,301.44\nPago 7 de 43 2026-11-05 $ 116.26 $ 4,185.18\nPago 8 de 43 2026-11-12 $ 116.26 $ 4,068.92\nPago 9 de 43 2026-11-19 $ 116.26 $ 3,952.66\nPago 10 de 43 2026-11-26 $ 116.26 $ 3,836.40\nPago 11 de 43 2026-12-03 $ 116.26 $ 3,720.14\nPago 12 de 43 2026-12-10 $ 116.26 $ 3,603.88\nPago 13 de 43 2026-12-17 $ 116.26 $ 3,487.62\nPago 14 de 43 2026-12-24 $ 116.26 $ 3,371.36\nPago 15 de 43 2026-12-31 $ 116.26 $ 3,255.10\nPago 16 de 43 2027-01-07 $ 116.26 $ 3,138.84\nPago 17 de 43 2027-01-14 $ 116.26 $ 3,022.58\nPago 18 de 43 2027-01-21 $ 116.26 $ 2,906.32\nPago 19 de 43 2027-01-28 $ 116.26 $ 2,790.06\nPago 20 de 43 2027-02-04 $ 116.26 $ 2,673.80\nPago 21 de 43 2027-02-1"
+    },
+    {
+        "id": "contrato-1081-0003",
+        "contrato": "1081",
+        "tipo": "contrato",
+        "archivo": "1081.txt",
+        "chunk": 3,
+        "texto": "de 43 2027-01-21 $ 116.26 $ 2,906.32\nPago 19 de 43 2027-01-28 $ 116.26 $ 2,790.06\nPago 20 de 43 2027-02-04 $ 116.26 $ 2,673.80\nPago 21 de 43 2027-02-11 $ 116.26 $ 2,557.54\nPago 22 de 43 2027-02-18 $ 116.26 $ 2,441.28\nPago 23 de 43 2027-02-25 $ 116.26 $ 2,325.02\nPago 24 de 43 2027-03-04 $ 116.26 $ 2,208.76\nPago 25 de 43 2027-03-11 $ 116.26 $ 2,092.50\nPago 26 de 43 2027-03-18 $ 116.26 $ 1,976.24\n2 / 4\n\nConcepto Fecha de pago Monto del pago Saldo pendiente\nPago 27 de 43 2027-03-25 $ 116.26 $ 1,859.98\nPago 28 de 43 2027-04-01 $ 116.26 $ 1,743.72\nPago 29 de 43 2027-04-08 $ 116.26 $ 1,627.46\nPago 30 de 43 2027-04-15 $ 116.26 $ 1,511.20\nPago 31 de 43 2027-04-22 $ 116.26 $ 1,394.94\nPago 32 de 43 2027-04-29 $ 116.26 $ 1,278.68\nPago 33 de 43 2027-05-06 $ 116.26 $ 1,162.42\nPago 34 de 43 2027-05-13 $"
+    },
+    {
+        "id": "contrato-1081-0004",
+        "contrato": "1081",
+        "tipo": "contrato",
+        "archivo": "1081.txt",
+        "chunk": 4,
+        "texto": "3 2027-04-22 $ 116.26 $ 1,394.94\nPago 32 de 43 2027-04-29 $ 116.26 $ 1,278.68\nPago 33 de 43 2027-05-06 $ 116.26 $ 1,162.42\nPago 34 de 43 2027-05-13 $ 116.26 $ 1,046.16\nPago 35 de 43 2027-05-20 $ 116.26 $ 929.90\nPago 36 de 43 2027-05-27 $ 116.26 $ 813.64\nPago 37 de 43 2027-06-03 $ 116.26 $ 697.38\nPago 38 de 43 2027-06-10 $ 116.26 $ 581.12\nPago 39 de 43 2027-06-17 $ 116.26 $ 464.86\nPago 40 de 43 2027-06-24 $ 116.26 $ 348.60\nPago 41 de 43 2027-07-01 $ 116.26 $ 232.34\nPago 42 de 43 2027-07-08 $ 116.26 $ 116.08\nPago 43 de 43 2027-07-15 $ 116.08 $ 0.00\n3 / 4\n\nTérminos y condiciones\n4 / 4"
+    }
+]
