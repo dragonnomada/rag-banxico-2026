@@ -230,3 +230,7 @@ shared/input/sindicales
 shared/metadata/sindicales
 shared/output/financiera/textos/contratos
 shared/output/financiera/textos/pagos
+# Laboratorio Chroma: datos derivados locales
+shared/output/financiera/chroma-v1/
+
+10-rag-chroma-laboratorio
